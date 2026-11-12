@@ -3,11 +3,31 @@
 <channel>
 <title>Skribly Newsletter</title>
 <link>https://newsletter.skribly.pl/pl/</link>
-<description>Wiadomości z AI, które warto przeczytać, i nowości w Skribly, co tydzień, ze źródłem pod każdą wiadomością.</description>
+<description>Wiadomości z AI, które warto przeczytać, i nowości w Skribly, co rano i co tydzień, ze źródłem pod każdą wiadomością.</description>
 <language>pl-PL</language>
 <lastBuildDate>Thu, 12 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/pl/</link></image>
+<item><title>Aktualizacje Codexa i nowe narzędzia programistyczne</title><link>https://newsletter.skribly.pl/pl/wydania/0009-daily-2026-11-12/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0009-daily-2026-11-12/</guid><pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate><category>Agenci</category><category>Narzędzia</category><category>Modele</category><description>Ten numer omawia najnowsze wydanie Codexa z przyrostowymi aktualizacjami narzędzi na Google Cloud Vertex AI oraz nowe funkcje planowania repozytoriów.</description><content:encoded><![CDATA[<p>Ten numer omawia najnowsze wydanie Codexa z przyrostowymi aktualizacjami narzędzi na Google Cloud Vertex AI oraz nowe funkcje planowania repozytoriów.</p>
+<p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
+<h2>Aktualizacje Codexa i nowe narzędzia programistyczne</h2>
+<h3>Wydanie Codex 0.167.2</h3>
+<p>Codex wysyła teraz aktualizacje narzędzi przyrostowo domyślnie podczas działania na Google Cloud Vertex AI. Programistom dano możliwość wyłączenia tej opcji poprzez ustawienie incremental_tools_legacy_gcp na false w sekcji features pliku config.toml.</p>
+<p>Źródło: <a href="https://github.com/openai/codex/releases/tag/rust-v0.167.2">OpenAI Codex releases: 0.167.2</a></p>
+<h2>W skrócie</h2>
+<h3>Typy i pola zadań dla kont osobistych</h3>
+<p>Typy zadań oraz pola zadań są teraz ogólnie dostępne w repozytoriach należących do kont osobistych. Ta zmiana udostępnia standardowe możliwości planowania dla indywidualnych deweloperów i maintainerów projektów open source.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-11-issue-types-and-fields-are-available-for-personal-accounts">GitHub Changelog: Issue types and fields are available for personal accounts</a></p>
+<h3>Wydano Gemini Decisions API</h3>
+<p>Google zaprezentowało Gemini Decisions API, napędzane przez model Gemini Decision. Interfejs ten został zaprojektowany z myślą o dostarczaniu szybkich i skalibrowanych decyzji multimodalnych.</p>
+<p>Źródło: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/">Google AI Blog: Gemini Decisions API: Fast, calibrated multimodal decisions</a></p>
+<h3>Eksperyment Tabletop do współpracy grupowej</h3>
+<p>Tabletop to nowy eksperyment Google Labs skupiający się na konfigurowalnych i wspólnych przestrzeniach dla grup. Zespoły mogą go używać do wspólnego tworzenia interaktywnych planów podróży, ankiet i struktur.</p>
+<p>Źródło: <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/tabletop/">Google AI Blog: Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more togethe…</a></p>
+<h3>AlphaGenome 2 dekoduje DNA</h3>
+<p>AlphaGenome 2 ma na celu odszyfrowanie sposobu, w jaki komórki odczytują DNA, aby lepiej zrozumieć choroby. Model przewiduje, jak sekwencje DNA i ich warianty wpływają na konkretne typy ludzkich komórek oraz schorzenia.</p>
+<p>Źródło: <a href="https://deepmind.google/blog/alphagenome-2-deciphering-how-cells-read-dna-to-better-understand-disease/">Google DeepMind Blog: AlphaGenome 2: Deciphering how cells read DNA to better understand disease</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0009-daily-2026-11-12/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
 <item><title>Agenci AI sprawdzili kod Signala dowodami. Do tego nowe modele</title><link>https://newsletter.skribly.pl/pl/wydania/0008-agents-verify-signal/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0008-agents-verify-signal/</guid><pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate><category>Badania</category><category>Modele</category><category>Agenci</category><category>Narzędzia</category><category>Open source</category><category>Prawo i polityka</category><category>Skribly</category><description>Google DeepMind zaprzągł agentów AI do udowodnienia, że kod Signala spełnia wymogi bezpieczeństwa. Poza tym: Claude Fable 5.2, Gemini 4 Carbon dla wszystkich, otwarte wagi od Mistrala i agent od DeepSeeka.</description><content:encoded><![CDATA[<p>Google DeepMind zaprzągł agentów AI do udowodnienia, że kod Signala spełnia wymogi bezpieczeństwa. Poza tym: Claude Fable 5.2, Gemini 4 Carbon dla wszystkich, otwarte wagi od Mistrala i agent od DeepSeeka.</p>
 <h2>Agenci AI sprawdzili kod Signala dowodami</h2>
 <h3>Ludzie wybierają, co udowodnić, agenci piszą dowody</h3>

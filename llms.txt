@@ -1,8 +1,8 @@
 # Skribly Newsletter
 
-> A free weekly newsletter with AI news worth reading and what is new in Skribly. Every item has its source; no ads.
+> A free newsletter with AI news worth reading and what is new in Skribly: a digest every morning and an issue every week. Every item has its source; no ads.
 
-A short e-mail every week: what happened in AI that is worth your time, and what is new in Skribly.
+A short digest every morning, written automatically from the sources, and a weekly issue checked by a person: what happened in AI that is worth your time, and what is new in Skribly.
 
 ## Pages
 
@@ -13,6 +13,7 @@ A short e-mail every week: what happened in AI that is worth your time, and what
 
 ## Issues
 
+- [Issue 9: Codex Updates and New Developer Tools](https://newsletter.skribly.pl/issues/0009-daily-2026-11-12/): This issue covers the latest Codex release with incremental tool updates on Google Cloud Vertex AI, along with new repository planning features and API releases. Polish: https://newsletter.skribly.pl/pl/wydania/0009-daily-2026-11-12/
 - [Issue 8: AI agents check Signal's code with proofs, and new models](https://newsletter.skribly.pl/issues/0008-agents-verify-signal/): Google DeepMind used AI agents to prove security properties of the code behind Signal. Also: Claude Fable 5.2, Gemini 4 Carbon for everyone, open weights from Mistral and a coding agent from DeepSeek. Polish: https://newsletter.skribly.pl/pl/wydania/0008-agents-verify-signal/
 - [Issue 7: AI checks planning applications, and Kimi K3.1 Pro weights](https://newsletter.skribly.pl/issues/0007-ai-planning-applications/): Google DeepMind and the UK government cut the time planning officers spend on routine applications by up to 58%. Also: Kimi K3.1 Pro weights, OpenAI models for biology and security, and a GitHub Actions change. Polish: https://newsletter.skribly.pl/pl/wydania/0007-ai-planning-applications/
 - [Issue 6: Claude in drug labs, GPT-6.1 Terra and Genie 4](https://newsletter.skribly.pl/issues/0006-claude-drug-development/): Anthropic shared early results from drug developers who used Claude to design and check drug candidates. Also: GPT-6.1 Terra, Kimi K3.1 Pro, Genie 4 and agent workflows in GitHub Actions. Polish: https://newsletter.skribly.pl/pl/wydania/0006-claude-drug-development/
