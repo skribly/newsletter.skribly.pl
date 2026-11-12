@@ -1,6 +1,6 @@
 # Skribly Newsletter
 
-> A free weekly newsletter with AI news worth reading and what is new in Skribly. Every item has its source; no tracking.
+> A free weekly newsletter with AI news worth reading and what is new in Skribly. Every item has its source; no ads.
 
 A short e-mail every week: what happened in AI that is worth your time, and what is new in Skribly.
 
