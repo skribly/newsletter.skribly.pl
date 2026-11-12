@@ -8,7 +8,7 @@
 <lastBuildDate>Thu, 12 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/pl/</link></image>
-<item><title>Agenci AI sprawdzili kod Signala dowodami. Do tego nowe modele</title><link>https://newsletter.skribly.pl/pl/wydania/0001-agents-verify-signal/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0001-agents-verify-signal/</guid><pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate><category>Badania</category><category>Modele</category><category>Agenci</category><category>Narzędzia</category><category>Open source</category><category>Prawo i polityka</category><category>Skribly</category><description>Google DeepMind zaprzągł agentów AI do udowodnienia, że kod Signala spełnia wymogi bezpieczeństwa. Poza tym: Claude Fable 5.2, Gemini 4 Carbon dla wszystkich, otwarte wagi od Mistrala i agent od DeepSeeka.</description><content:encoded><![CDATA[<p>Google DeepMind zaprzągł agentów AI do udowodnienia, że kod Signala spełnia wymogi bezpieczeństwa. Poza tym: Claude Fable 5.2, Gemini 4 Carbon dla wszystkich, otwarte wagi od Mistrala i agent od DeepSeeka.</p>
+<item><title>Agenci AI sprawdzili kod Signala dowodami. Do tego nowe modele</title><link>https://newsletter.skribly.pl/pl/wydania/0008-agents-verify-signal/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0008-agents-verify-signal/</guid><pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate><category>Badania</category><category>Modele</category><category>Agenci</category><category>Narzędzia</category><category>Open source</category><category>Prawo i polityka</category><category>Skribly</category><description>Google DeepMind zaprzągł agentów AI do udowodnienia, że kod Signala spełnia wymogi bezpieczeństwa. Poza tym: Claude Fable 5.2, Gemini 4 Carbon dla wszystkich, otwarte wagi od Mistrala i agent od DeepSeeka.</description><content:encoded><![CDATA[<p>Google DeepMind zaprzągł agentów AI do udowodnienia, że kod Signala spełnia wymogi bezpieczeństwa. Poza tym: Claude Fable 5.2, Gemini 4 Carbon dla wszystkich, otwarte wagi od Mistrala i agent od DeepSeeka.</p>
 <h2>Agenci AI sprawdzili kod Signala dowodami</h2>
 <h3>Ludzie wybierają, co udowodnić, agenci piszą dowody</h3>
 <p>10 listopada 2026 Google DeepMind pokazał AlphaProof Code: ludzie decydują, czego trzeba dowieść, a agenci AI
@@ -90,6 +90,462 @@ używasz, i zobacz jego narzędzia, zasoby i prompty. Wolisz terminal? Polecenie
 Wersja 2 trzyma tokeny i sekrety w systemowym pęku kluczy, jeśli jest dostępny, więc najpierw przeczytaj jej uwagę
 o sekretach.</p>
 <p>Źródło: <a href="https://github.com/modelcontextprotocol/inspector">GitHub: modelcontextprotocol/inspector</a></p>
-<p><a href="https://newsletter.skribly.pl/pl/wydania/0001-agents-verify-signal/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0008-agents-verify-signal/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<item><title>AI sprawdza wnioski budowlane, a Kimi K3.1 Pro ma otwarte wagi</title><link>https://newsletter.skribly.pl/pl/wydania/0007-ai-planning-applications/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0007-ai-planning-applications/</guid><pubDate>Thu, 05 Nov 2026 00:00:00 GMT</pubDate><category>Badania</category><category>Modele</category><category>Narzędzia</category><category>Open source</category><category>Prawo i polityka</category><category>Skribly</category><description>Google DeepMind i brytyjski rząd skrócili czas, jaki urzędnicy poświęcają na rutynowe wnioski, nawet o 58%. Poza tym: wagi Kimi K3.1 Pro, modele OpenAI do biologii i bezpieczeństwa oraz zmiana w GitHub Actions.</description><content:encoded><![CDATA[<p>Google DeepMind i brytyjski rząd skrócili czas, jaki urzędnicy poświęcają na rutynowe wnioski, nawet o 58%. Poza tym: wagi Kimi K3.1 Pro, modele OpenAI do biologii i bezpieczeństwa oraz zmiana w GitHub Actions.</p>
+<h2>AI w urzędzie planowania</h2>
+<h3>PlanAssist robi rutynowe sprawdzenia, decyduje urzędnik</h3>
+<p>31 października 2026 Google DeepMind opisał PlanAssist, narzędzie zbudowane na Gemini dla lokalnych urzędów
+planowania wspólnie z rządem Wielkiej Brytanii, Google Cloud i firmą Faculty. Przy rutynowych wnioskach właścicieli
+domów sprawdza dokumenty, porównuje je z zasadami planowania i ochroną zabytków, przegląda wcześniejsze sprzeciwy
+i przygotowuje raport z odnośnikami, który urzędnik poprawia. W pilotażach w Barnet, Camden i Dorset skrócił czas
+takiej oceny nawet o 58%. Teraz wchodzi w 12-miesięczną wersję beta z prawdziwymi wnioskami w 15 samorządach, a jeśli
+testy się powiodą, rząd chce w 2027 udostępnić go wszystkim samorządom w Anglii. Każdą ocenę przegląda i zatwierdza
+wykwalifikowany urzędnik, zanim zapadnie decyzja.</p>
+<p>Źródło: <a href="https://deepmind.google/blog/speeding-up-planning-decisions-with-ai/">Google DeepMind: Speeding up planning decisions with AI</a></p>
+<h2>W skrócie</h2>
+<h3>Wagi Kimi K3.1 Pro są na Hugging Face</h3>
+<p>Moonshot AI obiecał wagi Kimi K3.1 Pro do 4 listopada i są już na Hugging Face; pierwszy commit repozytorium ma datę
+2 listopada 2026. Model ma 2,8 biliona parametrów, z czego aktywnych jest 104 miliardy, kontekst miliona tokenów
+i rozumie tekst oraz obrazy. Licencja Kimi K3.1-Pro License pozwala używać, zmieniać i dostrajać model, ale duzi
+dostawcy oferujący modele jako usługę potrzebują osobnej umowy, a bardzo duże produkty muszą pokazywać nazwę modelu.
+Do uruchamiania Moonshot poleca vLLM, SGLang lub TokenSpeed.</p>
+<p>Źródła: <a href="https://huggingface.co/moonshotai/Kimi-K3.1-Pro">Hugging Face: moonshotai/Kimi-K3.1-Pro</a> · <a href="https://huggingface.co/moonshotai/Kimi-K3.1-Pro/commits/main">Hugging Face: historia commitów</a></p>
+<h3>Modele OpenAI do biologii i do pracy nad bezpieczeństwem</h3>
+<p>30 października 2026 OpenAI udostępnił GPT-6 Rosalind, który wnosi wyspecjalizowane rozumowanie biologiczne i obsługę
+narzędzi naukowych do badań w naukach o życiu. 5 listopada doszedł GPT-6-Cyber: do badania podatności, odtwarzania
+jej w autoryzowanym środowisku testowym i sprawdzania poprawki. Żaden z nich nie jest dostępny dla wszystkich:
+Rosalind dostają organizacje zatwierdzone w programie Rosalind Research, a GPT-6-Cyber wymaga dostępu i zgody
+w programie Daybreak Red.</p>
+<p>Źródła: <a href="https://developers.openai.com/changelog">OpenAI: lista zmian API</a> · <a href="https://developers.openai.com/api/docs/models/gpt-6-cyber">OpenAI: GPT-6-Cyber</a></p>
+<h3>GPT-Image-2.6 poprawia obraz według twoich szkiców</h3>
+<p>4 listopada 2026 OpenAI wydał dwa modele obrazów: GPT-Image-2.6 Sunburst do pracy nad szczegółami i GPT-Image-2.6
+Flare do szybkich prób. Oba tworzą SVG i animowane GIF-y. Ustawienie <code>complexity</code> ma poziomy od niskiego do wysokiego:
+wysoki pomaga przy gęstym tekście i złożonych układach, ale bywa wolniejszy i zmienia więcej, niż chcesz. Nowością
+jest edycja według znaczników: rysujesz kółka lub szkice na przezroczystej warstwie i słowami opisujesz zmianę.</p>
+<p>Źródła: <a href="https://developers.openai.com/changelog">OpenAI: lista zmian API</a> · <a href="https://developers.openai.com/api/docs/guides/image-generation">OpenAI: Image generation guide</a></p>
+<h3>SDK MCP dla Ruby na najwyższym poziomie</h3>
+<p>30 października 2026 oficjalne SDK Model Context Protocol dla języka Ruby osiągnęło Tier 1, najwyższy z trzech
+poziomów SDK w MCP. Od wersji 1.2.0 gemu <code>mcp</code> obsługuje specyfikację 2026-07-28 i przechodzi 100% punktowanych
+scenariuszy zgodności. Tier 1 oznacza obsługę nowej wersji specyfikacji w dniu jej wydania, przejrzenie zgłoszeń
+w ciągu dwóch dni roboczych i naprawę krytycznych błędów w ciągu siedmiu dni.</p>
+<p>Źródła: <a href="https://blog.modelcontextprotocol.io/posts/ruby-sdk-tier-1/">MCP Blog: The Official Ruby SDK for MCP Reaches Tier 1</a> · <a href="https://github.com/modelcontextprotocol/ruby-sdk">GitHub: modelcontextprotocol/ruby-sdk</a></p>
+<h3>CWE-bench v2 sprawdza, czy agenci naprawią luki</h3>
+<p>CWE-bench v2, opublikowany przez Collinear AI na blogu Hugging Face 3 listopada 2026, sprawdza, czy agent AI znajdzie
+i naprawi słabość bezpieczeństwa w prawdziwym repozytorium open source, nie psując tego, co już działa. Publiczny
+zestaw ma 100 zadań, każde sprawdzone ręcznie, które obejmują 91 rodzajów słabości (CWE), a ocena jest automatyczna
+i powtarzalna. Spośród 11 testowanych modeli najlepszy rozwiązał za pierwszym podejściem 67,8% zadań, a nawet lider
+przy każdej próbie nie radzi sobie z 19% z nich.</p>
+<p>Źródła: <a href="https://huggingface.co/blog/cwe-bench">Hugging Face: CWE-bench v2</a> · <a href="https://huggingface.co/datasets/collinear-ai/cwe-bench">Hugging Face: collinear-ai/cwe-bench</a></p>
+<h3>Zestaw narzędzi AI dla europejskich urzędów</h3>
+<p>4 listopada 2026 portal Interoperable Europe Komisji Europejskiej uruchomił zestaw narzędzi AI dla administracji
+publicznej. Zebrano w nim otwarte narzędzia do ponownego użycia, przykłady z europejskich urzędów, szkolenia dla
+urzędników oraz wskazówki prawne i dotyczące zamówień na rozwiązania AI. Zestaw wspiera strategię Komisji Apply AI,
+która zapowiadała wspólne repozytorium narzędzi do ponownego użycia.</p>
+<p>Źródło: <a href="https://interoperable-europe.ec.europa.eu/interoperable-europe/news/ai-toolbox-support-public-administrations-adopting-ai">Interoperable Europe: AI toolbox to support public administrations adopting AI</a></p>
+<h2>Ze Skribly</h2>
+<h3>Jedna nazwa dla naszych narzędzi: Skribly</h3>
+<p>4 listopada trzy nasze narzędzia przyjęły nazwę Skribly. Od wersji 1.0.30 aplikacja na komputer nazywa się Skribly
+Agent, a istniejące instalacje zachowują ustawienia, tokeny, sesje i logowania. W Skribly Tracker 0.1.16 interfejs
+i logo mają nazwę Skribly, a webhooki wysyłają nagłówki <code>X-Skribly</code> obok dotychczasowych, więc obecni odbiorcy dalej
+działają. W agent-skills 0.2.5 identyfikator trackera to teraz <code>skribly</code>; stare nazwy i dane logowania nadal działają.</p>
+<p>Źródła: <a href="https://docs.skribly.pl/pl/changelog/">docs.skribly.pl: lista zmian, Skribly Agent 1.0.30</a> · <a href="https://docs.skribly.pl/pl/changelog/">docs.skribly.pl: lista zmian, Skribly Tracker 0.1.16</a> · <a href="https://docs.skribly.pl/pl/changelog/">docs.skribly.pl: lista zmian, agent-skills 0.2.5</a></p>
+<h2>Do wypróbowania</h2>
+<h3>Znajdź workflow, które używają pull_request_target</h3>
+<p>2 listopada 2026 GitHub ogłosił, że od 2 grudnia 2026 GitHub Actions domyślnie zablokuje zdarzenie
+<code>pull_request_target</code> w publicznych repozytoriach, chyba że pozwoli na nie polityka zdarzeń Actions. Powód: taki
+workflow działa z sekretami repozytorium bazowego, więc niezaufany kod z forka mógłby je wykraść. Wpisz
+<code>grep -rn pull_request_target .github/workflows</code> w swoim repozytorium. Jeśli nic nie potrzebuje tego wyzwalacza,
+zostaw domyślną blokadę; jeśli jakiś workflow go potrzebuje, w polityce zdarzeń zezwól tylko jemu.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-02-pull_request_target-blocked-by-default-december-2">GitHub Changelog: pull_request_target blocked by default December 2</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0007-ai-planning-applications/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<item><title>Claude w laboratoriach leków, GPT-6.1 Terra i Genie 4</title><link>https://newsletter.skribly.pl/pl/wydania/0006-claude-drug-development/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0006-claude-drug-development/</guid><pubDate>Thu, 29 Oct 2026 00:00:00 GMT</pubDate><category>Badania</category><category>Modele</category><category>Agenci</category><category>Narzędzia</category><category>Open source</category><category>Skribly</category><description>Anthropic pokazał pierwsze wyniki firm, które z pomocą Claude&#39;a projektują i sprawdzają kandydatów na leki. Poza tym: GPT-6.1 Terra, Kimi K3.1 Pro, Genie 4 i agenci w GitHub Actions.</description><content:encoded><![CDATA[<p>Anthropic pokazał pierwsze wyniki firm, które z pomocą Claude&#39;a projektują i sprawdzają kandydatów na leki. Poza tym: GPT-6.1 Terra, Kimi K3.1 Pro, Genie 4 i agenci w GitHub Actions.</p>
+<h2>Claude w laboratorium leków</h2>
+<h3>Claude pomaga twórcom leków od projektu po dokumenty</h3>
+<p>27 października 2026 Anthropic opisał pierwsze wyniki współpracy z sześcioma firmami, które tworzą leki, oraz z własnego
+programu badawczego. W Generate Biomedicines naukowcy z pomocą Claude Code zaproponowali element genetyczny do terapii
+CAR-T o około 70% krótszy od standardowego; w testach laboratoryjnych komórki odpornościowe wytwarzały mniej więcej
+dziesięć razy więcej receptorów. W BigHat Biosciences Claude zaproponował zmiany w dwóch fragmentach przeciwciał,
+a najlepsze wersje wiązały się ponad dziesięć razy mocniej. W Enveda Claude przejrzał 1061 stron dokumentacji
+produkcyjnej, wychwycił wszystkie 11 problemów znalezionych przez ludzi i siedem kolejnych, a czas pracy recenzentów
+spadł o 89%. Anthropic podkreśla, że to wczesny etap i w większości badania przedkliniczne, czyli jeszcze bez udziału
+ludzi.</p>
+<p>Źródło: <a href="https://www.anthropic.com/research/early-progress-drug-development">Anthropic: Early progress on accelerating drug development with Claude</a></p>
+<h2>W skrócie</h2>
+<h3>GPT-6.1 Terra, szybki model do obsługi komputera</h3>
+<p>OpenAI udostępnił 26 października 2026 GPT-6.1 Terra w API Responses i Chat Completions. Według OpenAI to szybki,
+oszczędny model do rozumowania na obrazach, precyzyjnej obsługi komputera i jasnego, naturalnego pisania. Czyta tekst
+i obrazy, ma kontekst około miliona tokenów i korzysta z narzędzi, takich jak obsługa komputera czy MCP. Tego samego
+dnia trafił do GitHub Copilot, który poleca go do codziennego programowania z agentem i pracy w terminalu.</p>
+<p>Źródła: <a href="https://developers.openai.com/changelog">OpenAI: lista zmian API</a> · <a href="https://developers.openai.com/api/docs/models/gpt-6.1-terra">OpenAI: GPT-6.1 Terra</a> · <a href="https://github.blog/changelog/2026-10-26-gpt-6-1-terra-in-github-copilot">GitHub Changelog: GPT-6.1 Terra in GitHub Copilot</a></p>
+<h3>Kimi K3.1 Pro z przyciętymi umiejętnościami hakerskimi</h3>
+<p>Moonshot AI przedstawił Kimi K3.1 Pro we wpisie z 24 października 2026 na blogu Kimi jako swój najmocniejszy otwarty
+model klasy 3T, z kontekstem miliona tokenów. Wariant Highspeed działa dwa do trzech razy szybciej. Model jest dostępny
+na Kimi.com, w Kimi Work, Kimi Code i API Kimi, a pełne wagi Moonshot zapowiedział do 4 listopada. Firma usunęła też
+z treningu dane związane z cyberbezpieczeństwem, bo nie chce wydawać otwartych wag, które przesuwałyby granicę
+możliwości w cyberbezpieczeństwie.</p>
+<p>Źródło: <a href="https://www.kimi.com/en/blog/kimi-k3-1-pro">Kimi: Kimi K3.1 Pro</a></p>
+<h3>Genie 4 buduje światy z dźwiękiem</h3>
+<p>27 października 2026 Google DeepMind ogłosił Genie 4, model świata, który na bieżąco tworzy interaktywne otoczenie.
+Nowością jest własny dźwięk, czyli muzyka, odgłosy tła i rozmowy postaci, oraz zmienianie sceny zwykłymi słowami, na
+przykład pogody albo ujęcia kamery. To wersja badawcza dla zaufanych testerów, a DeepMind przyznaje, że szczegóły
+i trwałość obiektów mogą się z czasem rozjeżdżać. Każde wygenerowane wideo i dźwięk mają znak wodny SynthID.</p>
+<p>Źródło: <a href="https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/">Google DeepMind: Genie 4, a new generation of world simulation</a></p>
+<h3>Agenci w GitHub Actions ogólnie dostępni</h3>
+<p>GitHub Agentic Workflows, projekt open source od GitHub Next, jest ogólnie dostępny od 28 października 2026.
+Automatyzację, na przykład porządkowanie zgłoszeń albo analizę nieudanego builda, opisujesz zwykłymi słowami w pliku
+Markdown, a narzędzie zamienia ją na zwykły YAML dla Actions. Agenci domyślnie mają tylko prawo odczytu, działają
+w piaskownicy za zaporą, a osobne zadanie sprawdza proponowane zmiany pod kątem zagrożeń, zanim zostaną wprowadzone.
+Domyślny silnik, Copilot CLI, wymaga licencji Copilota.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-10-28-github-agentic-workflows-generally-available">GitHub Changelog: GitHub Agentic Workflows generally available</a></p>
+<h3>Replica robi prototypy z twojego systemu projektowego</h3>
+<p>Również 28 października GitHub Design wydał Replica, otwarte narzędzie do prototypów tworzonych z pomocą AI, na
+licencji MIT. W odróżnieniu od ogólnych narzędzi buduje prototypy z komponentów, wzorców i dokumentacji, które zespół
+już ma. Pomysł opisujesz w aplikacji GitHub Copilot i poprawiasz prototyp obok rozmowy; opcjonalny Replica Hub na
+własnym serwerze pozwala reszcie zespołu go obejrzeć i skomentować.</p>
+<p>Źródła: <a href="https://github.blog/changelog/2026-10-28-introducing-replica-an-open-source-ai-prototyping-tool">GitHub Changelog: Introducing Replica</a> · <a href="https://github.com/github/replica">GitHub: github/replica</a></p>
+<h3>Pliki blokady w GitHub Actions</h3>
+<p>Od 28 października 2026 pliki blokady (lockfiles) dla GitHub Actions są ogólnie dostępne. W workflow zostają czytelne
+tagi, a plik <code>.github/workflows/actions.lock</code>, tworzony rozszerzeniem <code>gh actions-lock</code>, zapisuje dokładne commity
+każdej akcji i jej zależności. Uruchamiane są właśnie te commity, nawet gdy tag się przesunie. GitHub zaznacza, że
+plik blokady chroni przed niespodziewanymi zmianami, ale nie mówi, czy zależność jest bezpieczna.</p>
+<p>Źródła: <a href="https://github.blog/changelog/2026-10-28-github-actions-workflow-lockfiles-are-generally-available">GitHub Changelog: GitHub Actions workflow lockfiles are generally available</a> · <a href="https://github.com/github/gh-actions-lock">GitHub: github/gh-actions-lock</a></p>
+<h2>Ze Skribly</h2>
+<h3>Skribly Tracker domyślnym trackerem w Skribly Agent</h3>
+<p>Skribly Agent 1.0.27, z datą 29 października w naszej publicznej liście zmian, ustawia Skribly Tracker jako domyślny
+tracker. Lista zmian na docs.skribly.pl prostymi słowami opisuje, co zmienia się w Skribly Agent, Skribly Tracker
+i agent-skills, od najnowszych zmian.</p>
+<p>Źródło: <a href="https://docs.skribly.pl/pl/changelog/">docs.skribly.pl: lista zmian</a></p>
+<h2>Do wypróbowania</h2>
+<h3>Uruchom LFM3 na własnym komputerze</h3>
+<p>LFM3-1.7B od Liquid AI, wydany 27 października 2026, to mały otwarty model z 1,73 miliarda parametrów i kontekstem
+256 tys. tokenów, a polski jest jednym z jego 16 języków. W Docker Model Runner uruchomisz go jednym poleceniem:
+<code>docker model run hf.co/LiquidAI/LFM3-1.7B</code>. Dla llama.cpp, Ollamy i LM Studio jest wersja GGUF, a dla Apple Silicon
+wersja MLX. Model ma licencję LFM Open License v1.0, więc przeczytaj ją, zanim użyjesz go w produkcie.</p>
+<p>Źródła: <a href="https://www.liquid.ai/blog/lfm3">Liquid AI: Introducing LFM3</a> · <a href="https://huggingface.co/LiquidAI/LFM3-1.7B">Hugging Face: LiquidAI/LFM3-1.7B</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0006-claude-drug-development/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<item><title>Claude Duet pracuje sam, ale pyta, zanim coś zrobi</title><link>https://newsletter.skribly.pl/pl/wydania/0005-claude-duet-agent/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0005-claude-duet-agent/</guid><pubDate>Thu, 22 Oct 2026 00:00:00 GMT</pubDate><category>Agenci</category><category>Modele</category><category>Open source</category><category>Narzędzia</category><category>Badania</category><category>Skribly</category><description>Anthropic pokazał Claude Duet, aplikację z agentem, który pracuje, gdy cię nie ma. Poza tym: zapora pakietów dla agentów na GitHubie, nowe wagi DeepSeeka, Voxtral 3 z polskim, ciągłe skany w Claude Security i mapa lasów świata.</description><content:encoded><![CDATA[<p>Anthropic pokazał Claude Duet, aplikację z agentem, który pracuje, gdy cię nie ma. Poza tym: zapora pakietów dla agentów na GitHubie, nowe wagi DeepSeeka, Voxtral 3 z polskim, ciągłe skany w Claude Security i mapa lasów świata.</p>
+<h2>Claude Duet pracuje sam, ale pyta, zanim coś zrobi</h2>
+<h3>Agent, który podsuwa ci to, co wymaga uwagi</h3>
+<p>21 października 2026 Anthropic otworzył podgląd badawczy Claude Duet, nowej aplikacji, w której Claude działa jako
+agent z własną inicjatywą. Wskazuje, co wymaga twojej uwagi, wykonuje zlecone zadania i pracuje dalej, gdy cię nie ma.
+Duet jest zbudowany wokół Claude Opus 5.5 i działa jako osobna aplikacja na iOS i Androida oraz na claude.ai, niezależnie
+od głównej aplikacji Claude. Sam czyta i przygotowuje szkice, ale zanim wyśle wiadomość, zapłaci, podpisze dokument albo
+coś usunie, pokazuje dokładnie, co zamierza zrobić, i czeka na twoją zgodę; niektóre działania, na przykład przelewy
+między kontami, są zablokowane nawet wtedy. Dostęp zaczyna się od listy oczekujących dla subskrybentów w USA.</p>
+<p>Źródło: <a href="https://claude.com/blog/claude-duet">Claude: Introducing Claude Duet</a></p>
+<h2>W skrócie</h2>
+<h3>Zapora pakietów dla agentów i CI</h3>
+<p>20 października 2026 GitHub udostępnił zaporę pakietów w publicznym podglądzie. Stoi między twoimi maszynami lub
+wewnętrznymi rejestrami a publicznymi rejestrami pakietów i sprawdza każde żądanie według zasad: okresu karencji dla
+nowych wersji, bazy GitHub Advisory Database pod kątem złośliwego kodu i podatności oraz kontroli łańcucha dostaw.
+GitHub kieruje ją do agentów programujących i maszyn CI, które instalują zależności bez człowieka zaglądającego w każdą
+z nich. Na razie obsługuje npm i jest dla GitHub Enterprise Cloud.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview">GitHub Changelog: GitHub package firewall in public preview</a></p>
+<h3>DeepSeek odświeża V4.1 Flash</h3>
+<p>DeepSeek opublikował 17 października 2026 na Hugging Face model DeepSeek-V4.1-Flash-1017. Karta modelu nazywa go
+drobną aktualizacją z dużą poprawą w rozumowaniu, programowaniu, zadaniach agentowych i testach wizualnych. Model ma też
+kończyć zadania szybciej i generować mniej tekstu. Zalecany kontekst to milion tokenów, a kod i wagi są na licencji MIT.</p>
+<p>Źródło: <a href="https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017">Hugging Face: deepseek-ai/DeepSeek-V4.1-Flash-1017</a></p>
+<h3>Voxtral 3 słucha i mówi, także po polsku</h3>
+<p>Mistral wydał 20 października 2026 Voxtral 3: zamianę mowy na tekst w trybie wsadowym i na żywo, z rozpoznawaniem, kto
+mówi, model zamiany tekstu na mowę z klonowaniem głosu i SDK do agentów głosowych. Transkrypcja obejmuje 50 języków,
+a synteza mowy ponad 35, i polski jest na obu listach. Voxtral 3 działa przez API Mistrala i w Studio albo na własnych
+serwerach.</p>
+<p>Źródło: <a href="https://mistral.ai/news/voxtral-3/">Mistral AI: Voxtral 3</a></p>
+<h3>Claude Security pilnuje kodu bez przerwy</h3>
+<p>21 października 2026 Anthropic ogłosił, że Claude Security, jego skaner podatności w publicznej becie dla Claude
+Enterprise, skanuje repozytoria w sposób ciągły, zamiast czekać na ręczne uruchomienie. Oznacza problem jako naprawiony,
+gdy poprawka trafi do kodu, i otwiera go ponownie, jeśli problem wróci. Buduje też edytowalny model zagrożeń projektu
+i wyjaśnia, jak atakujący mógłby dotrzeć do podatnego kodu. Doszły API, webhooki i konektor MCP dla Claude.ai i Claude
+Code.</p>
+<p>Źródło: <a href="https://claude.com/blog/claude-security-now-scans-continuously-and-tracks-fixes">Claude: Claude Security now scans continuously and tracks fixes</a></p>
+<h3>Mapa rodzajów lasów na świecie</h3>
+<p>22 października 2026 Google DeepMind i Google Research razem z World Resources Institute i IIASA opublikowali ForTy,
+mapę, która przypisuje każdy kwadrat ziemi 10 na 10 metrów do jednego z sześciu rodzajów lasu i użytkowania terenu.
+Model uczył się na około 1,7 miliona opisanych miejsc i w sprawdzeniu na ponad 9 tysiącach miejsc trafnie rozpoznał
+rodzaj lasu w 90% przypadków. Wstępny szereg czasowy na lata 2017–2025 pokazuje, gdzie naturalny las zamienił się
+w plantacje lub pola. Dane są bezpłatnie dostępne w Google Earth Engine na otwartej licencji.</p>
+<p>Źródło: <a href="https://deepmind.google/blog/beyond-tree-cover-mapping-the-worlds-forest-types/">Google DeepMind: Beyond tree cover, mapping the world&#39;s forest types</a></p>
+<h3>Anthropic zaprasza badaczy nauk o życiu</h3>
+<p>22 października 2026 Anthropic ogłosił nabór gości-badaczy z nauk o życiu: zespoły z uczelni, organizacji non-profit
+i laboratoriów państwowych pracują przez 8 do 12 tygodni z badaczami Anthropic nad wybranym przez siebie projektem.
+Anthropic uruchamia dla nich swoje modele bez kosztów, wyniki są publikowane, a dane i kod udostępniane jako open
+source. Zgłoszenia przyjmowano przez około 14 dni.</p>
+<p>Źródło: <a href="https://www.anthropic.com/news/open-call-guest-investigators-life-sciences">Anthropic: Open call for guest investigators in the life sciences</a></p>
+<h2>Ze Skribly</h2>
+<h3>Śledź Skribly na Discordzie</h3>
+<p>Krótki adres dc.skribly.pl prowadzi do zaproszenia na serwer Skribly na Discordzie. Tam można zadać pytanie i na
+bieżąco śledzić, nad czym pracują ludzie, którzy budują Skribly.</p>
+<p>Źródło: <a href="https://dc.skribly.pl/pl/">dc.skribly.pl</a></p>
+<h2>Do wypróbowania</h2>
+<h3>Loguj się do GitHub CLI tokenami, które wygasają</h3>
+<p>Od 21 października 2026 GitHub CLI może trzymać cię zalogowanym na krótko żyjącym tokenie, który sam się odnawia, więc
+wykradziony token przestaje działać w ciągu kilku godzin. Zaktualizuj <code>gh</code> do wersji 2.103.0 lub nowszej i wpisz
+<code>gh auth login --expiring</code> albo włącz to dla każdego logowania poleceniem <code>gh config set expiring_credentials enabled</code>.
+<code>gh auth status</code> pokaże, kiedy wygasa bieżący token. Skrypty powinny za każdym razem pobierać token przez
+<code>gh auth token</code>, zamiast go zapisywać.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens">GitHub Changelog: GitHub CLI opt in to expiring, auto-refreshing OAuth tokens</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0005-claude-duet-agent/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<item><title>Gemini 4 Argon już jest, a Meta otwiera wagi Muse Spark</title><link>https://newsletter.skribly.pl/pl/wydania/0004-gemini-4-argon/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0004-gemini-4-argon/</guid><pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate><category>Modele</category><category>Open source</category><category>Agenci</category><category>Narzędzia</category><category>Badania</category><category>Skribly</category><description>Google udostępnił Gemini 4 Argon programistom i w aplikacji Gemini. Poza tym: otwarte wagi od Mety i Mistrala, obrona Anthropic przed destylacją, niezależni ewaluatorzy w Anthropic i Claude Code Review dla zespołów.</description><content:encoded><![CDATA[<p>Google udostępnił Gemini 4 Argon programistom i w aplikacji Gemini. Poza tym: otwarte wagi od Mety i Mistrala, obrona Anthropic przed destylacją, niezależni ewaluatorzy w Anthropic i Claude Code Review dla zespołów.</p>
+<h2>Gemini 4 Argon już jest</h2>
+<h3>Nowy czołowy model Google dla programistów, naukowców i aplikacji Gemini</h3>
+<p>13 października 2026 Google wydał Gemini 4 Argon, który nazywa swoim najnowszym czołowym modelem. Programiści i firmy
+na całym świecie mogą z niego korzystać przez Gemini API w Google AI Studio; jest też w Google Antigravity, w aplikacji
+Gemini i w trybie AI w wyszukiwarce dla subskrybentów Google AI. Przez API przyjmuje łącznie do miliona tokenów na
+wejściu i wyjściu. Według Google w jego własnej pracy liczba zmian kodu zgłaszanych przez agentów w Antigravity wzrosła
+o ponad 35%, a wycofań było o prawie jedną trzecią mniej. Ataki przez wstrzyknięcie poleceń w teście Gray Swan
+udawały się tylko w 0,7% przypadków. W osobnym wpisie Argon rozumuje o świecie fizycznym, z wynikiem 87% w teście ERQA,
+i steruje robotem Spot.</p>
+<p>Źródła: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/">Google: Gemini 4 Argon, built to solve your hardest problems</a> · <a href="https://developers.googleblog.com/gemini-4-argon-for-robotics">Google for Developers: Gemini 4 Argon for Robotics</a></p>
+<h2>W skrócie</h2>
+<h3>Meta publikuje wagi Muse Spark Open</h3>
+<p>15 października 2026 Meta wydała Muse Spark Open, otwartą wersję modeli z rodziny Muse Spark. To model od początku
+multimodalny, z 816 miliardami parametrów, z których aktywnych jest 42 miliardy, i kontekstem miliona tokenów. Przed
+wydaniem Meta dodatkowo go zabezpieczyła, a jego mocne strony to programowanie i długie zadania agentowe. Wagi są na
+licencji Muse Model License z ograniczonymi warunkami komercyjnymi i leżą między innymi na Hugging Face.</p>
+<p>Źródło: <a href="https://research.meta.ai/blog/muse-spark-open">Meta AI: Muse Spark Open</a></p>
+<h3>Pierwsze modele Mistrala do prognozowania szeregów czasowych</h3>
+<p>Mistral pokazał 15 października 2026 Timestral, swoją pierwszą rodzinę modeli bazowych dla szeregów czasowych.
+Prognozują wiele powiązanych szeregów naraz i zamiast jednej liczby podają zakres prawdopodobnych wartości, także dla
+danych, których nigdy nie widziały. Są cztery rozmiary, od 5 do 209 milionów parametrów, i do działania nie potrzebują
+GPU. Licencja to zmodyfikowana licencja MIT, a modele są na Hugging Face i GitHubie.</p>
+<p>Źródło: <a href="https://mistral.ai/news/timestral/">Mistral AI: Introducing Timestral</a></p>
+<h3>Anthropic mocno utrudnia kopiowanie Claude&#39;a</h3>
+<p>12 października 2026 Anthropic opisał, jak walczy z destylacją, czyli ukrytym, masowym zbieraniem odpowiedzi modelu,
+żeby wytrenować na nich inny model. Do obrony służą między innymi klasyfikator, który myli się rzadziej niż w 0,1%
+przypadków, ostrzejsze limity dla recydywistów i dziesiątki tysięcy zablokowanych kont. Według Anthropic ilość danych,
+które zbierają destylujący, spadła o około 90 do 99%, ale firma spodziewa się zabawy w kotka i myszkę.</p>
+<p>Źródło: <a href="https://www.anthropic.com/news/distillation-defenses">Anthropic: Strengthening our defenses against distillation attacks</a></p>
+<h3>Niezależni ewaluatorzy zaglądają do Anthropic od środka</h3>
+<p>15 października 2026 Anthropic ogłosił, że zespół METR, organizacji non-profit oceniającej modele AI, dostał dostęp
+„jak pracownik”: sześć osób ma firmowy sprzęt, miejsce w biurze i wewnętrzne narzędzia. METR opublikuje swoje oceny
+ryzyka, a Anthropic nie może zablokować publikacji, tylko poprosić o usunięcie określonych rodzajów treści, na przykład
+poufnych. SecureBio sprawdza rozdział raportu o ryzyku dotyczący broni chemicznej i biologicznej, a Anthropic buduje
+trzy poziomy dostępu dla ewaluatorów.</p>
+<p>Źródło: <a href="https://www.anthropic.com/news/an-update-on-independent-evaluators">Anthropic: An update on independent evaluators</a></p>
+<h3>Claude Code Review wychodzi z fazy podglądu</h3>
+<p>Od 15 października 2026 Code Review w Claude Code nie jest już podglądem badawczym i działa w organizacjach Team
+i Enterprise. Gdy administrator go włączy i zainstaluje aplikację GitHub, przegląda nowe pull requesty automatycznie,
+zanim zrobi to człowiek. Administrator wybiera dla każdego repozytorium poziom Quick, Standard lub Deep. Według
+Anthropic większość przeglądów trwa teraz około 6 do 10 minut zamiast około 20.</p>
+<p>Źródło: <a href="https://claude.com/blog/code-review-is-now-generally-available">Claude: Code Review is now generally available</a></p>
+<h3>Model Gemma na telefonie wykrywa oszustwa w Singapurze</h3>
+<p>14 października 2026 Google DeepMind opisał model Gemma, dostrojony razem z rządem Singapuru do rozpoznawania rozmów
+z oszustami. Działa na samym telefonie, więc ani Google, ani rząd nie czytają rozmów: najpierw lekki klasyfikator
+przegląda wiadomości, a podejrzane przekazuje modelowi. GovTech Singapore otworzył wersję beta aplikacji Anti-Scam Pango
+dla użytkowników Androida w Singapurze.</p>
+<p>Źródło: <a href="https://deepmind.google/blog/on-device-ai-scam-detection-mddi/">Google DeepMind: on-device AI scam detection with the Singapore Government</a></p>
+<h2>Ze Skribly</h2>
+<h3>Śledź Skribly na Discordzie</h3>
+<p>Krótki adres dc.skribly.pl prowadzi do zaproszenia na serwer Skribly na Discordzie. Tam można zadać pytanie i na
+bieżąco śledzić, nad czym pracują ludzie, którzy budują Skribly.</p>
+<p>Źródło: <a href="https://dc.skribly.pl/pl/">dc.skribly.pl</a></p>
+<h2>Do wypróbowania</h2>
+<h3>Zablokuj wersje akcji w workflow na GitHubie</h3>
+<p>Od 14 października 2026 GitHub Actions potrafi czytać plik blokady <code>.github/workflows/actions.lock</code>, który zapisuje
+dokładny commit każdej akcji używanej w workflow, więc przesunięty tag czy gałąź nie zmienią tego, co się uruchamia.
+Zainstaluj rozszerzenie <code>gh actions-lock</code> do GitHub CLI z repozytorium <code>github/gh-actions-lock</code>, wygeneruj plik blokady,
+przejrzyj go i zacommituj. To publiczny podgląd, dostępny także w planie Free. Blokada przypina wersje, ale nie mówi,
+czy akcja jest bezpieczna, więc przejrzyj ją, zanim ją zablokujesz.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-10-14-github-actions-workflow-lockfiles-in-public-preview">GitHub Changelog: GitHub Actions workflow lockfiles in public preview</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0004-gemini-4-argon/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<item><title>Claude Haiku 5.5 i darmowe skany AI dla open source</title><link>https://newsletter.skribly.pl/pl/wydania/0003-haiku-and-oss-scanner/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0003-haiku-and-oss-scanner/</guid><pubDate>Thu, 08 Oct 2026 00:00:00 GMT</pubDate><category>Modele</category><category>Agenci</category><category>Narzędzia</category><category>Badania</category><category>Open source</category><category>Prawo i polityka</category><category>Skribly</category><description>Anthropic wydał Claude Haiku 5.5, mały model stworzony do pracy jako subagent. Poza tym: skany bezpieczeństwa AI dla projektów open source, piaskownice w Copilocie, piętrowe pull requesty, pełna mapa nieba w ultrafiolecie i unijna inicjatywa domeny .IA.</description><content:encoded><![CDATA[<p>Anthropic wydał Claude Haiku 5.5, mały model stworzony do pracy jako subagent. Poza tym: skany bezpieczeństwa AI dla projektów open source, piaskownice w Copilocie, piętrowe pull requesty, pełna mapa nieba w ultrafiolecie i unijna inicjatywa domeny .IA.</p>
+<h2>Claude Haiku 5.5, mały model dla subagentów</h2>
+<h3>Szybki, do pracy w dużej skali, z regulacją wysiłku</h3>
+<p>Anthropic wydał 7 października 2026 Claude Haiku 5.5 i nazywa go najszybszym i najzdolniejszym małym modelem, jaki
+dotąd udostępnił. Jest zbudowany do szybkiej, powtarzalnej pracy, takiej jak streszczenia, kompaktowanie kontekstu,
+zapytania do baz danych i klasyfikacja, i dobrze sprawdza się jako subagent przy Opusie 5.5 i Sonnecie 5.5 w pracy nad
+kodem. To pierwszy model klasy Haiku z regulowanym poziomem wysiłku. W OSWorld 2.1 ma 72,4% wobec 15,7% dla Haiku 4.5,
+a w Terminal-Bench 4.0 39,2% wobec 0,0%. Anthropic wprost pisze, że do złożonego programowania z agentami lepszym
+wyborem pozostają Sonnet 5.5 i Opus 5.5.</p>
+<p>Źródło: <a href="https://www.anthropic.com/claude-haiku-5-5">Anthropic: Claude Haiku 5.5</a></p>
+<h2>W skrócie</h2>
+<h3>Anthropic oferuje projektom open source darmowe skany bezpieczeństwa</h3>
+<p>8 października 2026 Anthropic ogłosił OSS Scanner, dobrowolną usługę wzorowaną na OSS-Fuzz od Google. Mogą się zapisać
+główni opiekunowie projektów open source, a ich projekty będą bezpłatnie i regularnie skanowane przez najmocniejsze
+modele Anthropic. Każdy raport zawiera wyjaśnienie, dowód koncepcji pokazujący, jak można wykorzystać błąd, i tam,
+gdzie się da, propozycję poprawki. Raporty pisze model i trafiają do opiekunów bez sprawdzenia przez człowieka;
+Anthropic spodziewa się, że ponad 90% z nich wskaże prawdziwe błędy.</p>
+<p>Źródło: <a href="https://www.anthropic.com/news/anthropic-cyber-mission">Anthropic: Anthropic&#39;s cyber mission</a></p>
+<h3>Copilot uruchamia lokalne polecenia w piaskownicy</h3>
+<p>Od 7 października 2026 lokalna piaskownica dla GitHub Copilot jest ogólnie dostępna w Copilot CLI, aplikacji GitHub
+Copilot i sesjach VS Code korzystających z Agent Host, na Windows, macOS i Linuksie. Polecenia uruchamiane przez Copilota
+mają ograniczony dostęp do plików i folderów, do internetu i sieci lokalnej oraz do danych logowania Git i GitHub CLI.
+Piaskownica może też objąć lokalne serwery MCP i serwery języków. Organizacje mogą ją wymusić i ustawić zasady, których
+programiści nie osłabią.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-10-07-local-sandboxing-for-github-copilot-now-generally-available">GitHub Changelog: Local sandboxing for GitHub Copilot now generally available</a></p>
+<h3>Piętrowe pull requesty dla wszystkich na GitHubie</h3>
+<p>6 października 2026 piętrowe pull requesty (stacked pull requests) stały się ogólnie dostępne we wszystkich planach
+github.com. Dużą zmianę można podzielić na mniejsze, powiązane pull requesty, które przegląda się osobno i scala po
+kolei. W wersji próbnej repozytoria używające takich stosów scalały o 9% więcej kodu niż podobne repozytoria. Cały stos
+przechodzi przez kolejkę scalania jako jedna grupa, a rozszerzenie <code>gh stack</code> do GitHub CLI działa teraz z git worktree.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-10-06-stacked-pull-requests-generally-available">GitHub Changelog: Stacked pull requests are generally available</a></p>
+<h3>Microsoft ocenia agentów po tym, co po sobie zostawiają</h3>
+<p>3 października 2026 Microsoft przedstawił ThinkingBox, który ocenia agenta po końcowym stanie systemu i skutkach jego
+działań, a nie po tym, co agent mówi. Jego test ma 507 firmowych procesów zmieniających dane, a każdy jest uruchamiany
+20 razy od czystego stanu. Najlepszy model, Claude Opus 5.5, rozwiązał 67,16% za jednym podejściem, a nawet najlepsze
+modele rozwiązały we wszystkich 20 próbach tylko 47,53% zadań. Około 79,9% porażek wynikało z użycia narzędzi. Kod jest
+na licencji MIT.</p>
+<p>Źródła: <a href="https://huggingface.co/blog/microsoft/thinkingbox">Hugging Face: ThinkingBox</a> · <a href="https://github.com/microsoft/thinkingbox">GitHub: microsoft/thinkingbox</a></p>
+<h3>Claude pomaga narysować pierwszą pełną mapę nieba w ultrafiolecie</h3>
+<p>8 października 2026 Anthropic opisał, jak astrofizyk Brice Ménard razem z Claude stworzył pierwszą kompletną mapę nieba
+w świetle UV. Teleskop GALEX z NASA sfotografował około dwóch trzecich nieba; agenci Claude skalibrowali te dane
+i połączyli je z innymi przeglądami. Dla brakującej jednej trzeciej Claude nauczył się, jak jasność w UV wiąże się
+z innymi długościami fal, a w ukrytych obszarach testowych jego szacunki różniły się od pomiarów o około 10%. Mapa jest
+publiczna, a każdy piksel ma oznaczenie „zmierzony” albo „przewidziany”.</p>
+<p>Źródło: <a href="https://www.anthropic.com/research/the-missing-map-of-the-sky">Anthropic: The missing map of the sky</a></p>
+<h3>UE rejestruje inicjatywę obywatelską w sprawie domeny .IA</h3>
+<p>6 października 2026 Komisja Europejska zarejestrowała europejską inicjatywę obywatelską „Tworzenie europejskiej
+przestrzeni cyfrowej na rzecz suwerennego zarządzania sztuczną inteligencją”. Jej autorzy chcą unijnych ram dla zaufanych przestrzeni cyfrowych
+i piaskownic do testowania etycznej AI oraz rozmów z ISO i ICANN/IANA o zarezerwowaniu domeny .IA dla Europy.
+Rejestracja oznacza tylko, że inicjatywa jest dopuszczalna prawnie. Jeśli organizatorzy zbiorą milion podpisów,
+z minimalną liczbą w co najmniej siedmiu państwach członkowskich, Komisja musi odpowiedzieć.</p>
+<p>Źródło: <a href="https://ec.europa.eu/commission/presscorner/detail/pl/ip_26_2064">Komisja Europejska: europejska inicjatywa obywatelska w sprawie AI</a></p>
+<h2>Ze Skribly</h2>
+<h3>Śledź Skribly na Discordzie</h3>
+<p>To archiwalne wydanie powstało później, 12 listopada 2026. Jeśli chcesz śledzić, co z tygodnia na tydzień budujemy
+w Skribly, i zadawać pytania, dołącz do serwera Skribly na Discordzie: krótki adres dc.skribly.pl prowadzi do
+zaproszenia.</p>
+<p>Źródło: <a href="https://dc.skribly.pl/pl/">dc.skribly.pl</a></p>
+<h2>Do wypróbowania</h2>
+<h3>Porównaj pytanie z odpowiedzią w EmbeddingGemma 2</h3>
+<p>Google wydał 6 października 2026 EmbeddingGemma 2, otwarty model embeddingów na licencji Apache 2.0, który umieszcza
+tekst, obrazy, dźwięk, wideo i kod we wspólnej przestrzeni; do samego tekstu wystarcza mu 270 milionów parametrów.
+Zainstaluj <code>sentence-transformers</code>, wczytaj <code>SentenceTransformer(&quot;google/embeddinggemma-2&quot;)</code>, zakoduj pytanie
+z <code>prompt_name=&quot;SearchQuery&quot;</code> i fragment tekstu z <code>prompt_name=&quot;Document&quot;</code>, a potem wypisz <code>model.similarity(...)</code> dla
+obu, tak jak w karcie modelu. Następnie podstaw własne pytanie i fragmenty i zobacz, który model uzna za najbliższy.</p>
+<p>Źródła: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/">Google: EmbeddingGemma 2</a> · <a href="https://huggingface.co/google/embeddinggemma-2">Hugging Face: google/embeddinggemma-2</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0003-haiku-and-oss-scanner/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<item><title>Gemini 4 Argon najpierw dla obrońców. Do tego nowe modele</title><link>https://newsletter.skribly.pl/pl/wydania/0002-argon-for-defenders/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0002-argon-for-defenders/</guid><pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate><category>Modele</category><category>Agenci</category><category>Narzędzia</category><category>Badania</category><category>Open source</category><category>Prawo i polityka</category><category>Skribly</category><description>Google przedstawił Gemini 4 Argon i na początek dał go grupie obrońców cyberbezpieczeństwa. Poza tym: Claude Sonnet 5.5, GPT-6.1 Sol, Copilot w aplikacjach na komputer, otwarte modele agentowe od H Company i konsultacje UE o prawie autorskim i AI.</description><content:encoded><![CDATA[<p>Google przedstawił Gemini 4 Argon i na początek dał go grupie obrońców cyberbezpieczeństwa. Poza tym: Claude Sonnet 5.5, GPT-6.1 Sol, Copilot w aplikacjach na komputer, otwarte modele agentowe od H Company i konsultacje UE o prawie autorskim i AI.</p>
+<h2>Gemini 4 Argon najpierw dla obrońców</h2>
+<h3>Model do długiej pracy, który obrońcy dostali przed wszystkimi</h3>
+<p>30 września 2026 Google przedstawił Gemini 4 Argon, swój najmocniejszy model do programowania, pracy z wiedzą w firmach
+i obrony przed atakami. Najpierw trafił do wybranych obrońców cyberbezpieczeństwa przez program Fairwind; szersze
+udostępnienie Google zapowiada później, bez daty. Limit odpowiedzi rośnie do miliona tokenów z 64 tysięcy. Google podaje 77,9% w DeepSWE v1.1, czyli nowy
+najlepszy wynik, i współdzielone pierwsze miejsce w CWE-bench v1 z wynikiem 68%. W jednym z przykładów agenci Google
+zastąpili 32 tysiące linii kodu SIMD w otwartym dekoderze wideo libgav1 bezpiecznym kodem w Rust, a wynik działa 2,7
+razy szybciej od dotychczasowej wersji w Rust i daje identyczny obraz.</p>
+<p>Źródło: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/">Google: Gemini 4 Argon</a></p>
+<h2>W skrócie</h2>
+<h3>Claude Sonnet 5.5 szybszy i do codziennej pracy</h3>
+<p>Anthropic wydał 28 września 2026 Claude Sonnet 5.5. Odpowiada o ponad 30% szybciej niż Sonnet 5 i najlepiej radzi sobie
+z dobrze określonymi codziennymi zadaniami, poprawianiem błędów oraz dopracowanymi dokumentami, slajdami i arkuszami.
+Anthropic wprost pisze, że model nie przesuwa granicy możliwości jego modeli; w Terminal-Bench 4.0 ma 70,6% wobec 10,3%
+dla Sonneta 5. To pierwszy Sonnet z zabezpieczeniami cyber: ryzykowniejsze prośby związane z bezpieczeństwem trafiają do
+Sonneta 5, a zwykłe poprawianie błędów działa bez zmian.</p>
+<p>Źródło: <a href="https://www.anthropic.com/claude-sonnet-5-5">Anthropic: Claude Sonnet 5.5</a></p>
+<h3>OpenAI dodaje GPT-6.1 Sol do API</h3>
+<p>29 września 2026 OpenAI udostępnił w API model GPT-6.1 Sol do złożonego programowania i pracy zawodowej. Strona modelu
+opisuje go jako wydajność bliską Astry przy złożonej pracy, z oknem kontekstu 1 050 000 tokenów i odpowiedzią do 128 000
+tokenów. Model obsługuje też Multi-agent w wersji beta, więc może przekazać części zadania subagentom. Tego samego dnia
+OpenAI dodał do Agents API obsługę komputera: agenci mogą kończyć zadania w przeglądarce prowadzonej przez OpenAI.</p>
+<p>Źródła: <a href="https://developers.openai.com/changelog">OpenAI: dziennik zmian dla programistów</a> · <a href="https://developers.openai.com/api/docs/models/gpt-6.1-sol">OpenAI: strona modelu GPT-6.1 Sol</a></p>
+<h3>Copilot obsługuje aplikacje na komputerze</h3>
+<p>Od 1 października 2026 GitHub Copilot może pracować za ciebie w aplikacjach na komputerze, w publicznej wersji próbnej
+w Copilot CLI i aplikacji GitHub Copilot na macOS i Windows. Czyta to, co pokazuje aplikacja, klika, pisze, przewija
+i przechodzi między aplikacjami, więc poradzi sobie też z programem bez API, CLI i integracji MCP. Zanim przejmie
+aplikację, prosi o zgodę, a organizacje mogą tę funkcję wyłączyć. W CLI włączysz ją poleceniem <code>/computer on</code>.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-10-01-github-copilot-can-now-interact-with-desktop-apps">GitHub Changelog: GitHub Copilot can now interact with desktop apps</a></p>
+<h3>H Company udostępnia wagi modeli agentowych Holo4</h3>
+<p>28 września 2026 H Company opublikowała Holo4, serię modeli agentowych, które pracują z programami przez interfejs
+graficzny, kod, MCP i API. Są dwa rozmiary, Holo4-27B i Holo4-35B-A3B, a wagi leżą na Hugging Face. W OSWorld 2.0 model
+27B ma 61,7% wobec 81,8% dla Claude Opus 5.5. Licencje się różnią: karta Holo4-35B-A3B podaje Apache 2.0, a karta
+Holo4-27B niekomercyjną CC BY-NC 4.0. H Company publikuje też wszystkie przebiegi, na których opiera swoje wyniki.</p>
+<p>Źródła: <a href="https://huggingface.co/blog/Hcompany/holo4">Hugging Face: Holo4</a> · <a href="https://huggingface.co/Hcompany/Holo4-35B-A3B">Hugging Face: Holo4-35B-A3B</a> · <a href="https://huggingface.co/Hcompany/Holo4-27B">Hugging Face: Holo4-27B</a></p>
+<h3>Znak wodny dla białek projektowanych z AI</h3>
+<p>30 września 2026 Google DeepMind przedstawił SynthID Bio, znaki wodne zapisane w samym kodzie biologicznym.
+W AlphaFold 3 zespół dostroił niewielką część modelu, więc przewidywane struktury niosą znak wodny niezależnie od tego,
+kto uruchamia model. W laboratorium oznaczone białka wiążące dla trzech celów dorównały nieoznaczonym pod względem
+skuteczności i siły wiązania. DeepMind opublikuje opis metody, kod, dane z laboratorium i wagi dla badaczy, a za
+główne wyzwanie uznaje odporność znaku na celowe manipulacje.</p>
+<p>Źródło: <a href="https://deepmind.google/blog/introducing-synthid-bio/">Google DeepMind: Introducing SynthID Bio</a></p>
+<h3>UE pyta o prawo autorskie i AI</h3>
+<p>29 września 2026 Komisja Europejska otworzyła konsultacje o wpływie technologii na prawo autorskie. Pierwszy z czterech
+obszarów to wykorzystanie treści chronionych prawem autorskim w sztucznej inteligencji; pozostałe to piractwo transmisji
+na żywo, wynagrodzenie wykonawców i producentów muzyki oraz prawo autorskie w badaniach naukowych. Do odpowiedzi
+zaproszono między innymi twórców generatywnej AI. Termin, początkowo 3 listopada, przesunięto na 10 listopada 2026.</p>
+<p>Źródło: <a href="https://digital-strategy.ec.europa.eu/pl/news/commission-seeks-feedback-challenges-and-way-forward-area-effect-technology-copyright">Komisja Europejska: wpływ technologii na prawa autorskie</a></p>
+<h2>Ze Skribly</h2>
+<h3>Śledź Skribly na Discordzie</h3>
+<p>To archiwalne wydanie powstało później, 12 listopada 2026. Jeśli chcesz śledzić, co z tygodnia na tydzień budujemy
+w Skribly, i zadawać pytania, dołącz do serwera Skribly na Discordzie: krótki adres dc.skribly.pl prowadzi do
+zaproszenia.</p>
+<p>Źródło: <a href="https://dc.skribly.pl/pl/">dc.skribly.pl</a></p>
+<h2>Do wypróbowania</h2>
+<h3>Uruchom środowisko RL z Hugging Face Hub</h3>
+<p>Od 28 września 2026 środowiska do uczenia ze wzmocnieniem trafiają na Hugging Face Hub jako zwykłe repozytoria danych,
+z filtrem „RL Environments” i bez rejestracji. Wypróbujesz je w otwartym frameworku Harbor bez klucza
+API: zainstaluj go poleceniem <code>uv tool install --python 3.13 &#39;harbor==0.21.0&#39;</code> i uruchom jedno zadanie z Terminal-Bench
+2.1 z opcjami <code>--agent oracle --env docker</code>, tak jak w poście. Agent oracle odtwarza wzorcowe rozwiązanie i nie woła
+żadnego modelu, więc potrzebujesz tylko Dockera. Potem <code>harbor view</code> pokaże nagrodę, wynik weryfikatora i logi.</p>
+<p>Źródło: <a href="https://huggingface.co/blog/rl-environments">Hugging Face: RL environments on the Hub</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0002-argon-for-defenders/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
+<item><title>Claude Opus 5.5 i GPT-6 tego samego dnia</title><link>https://newsletter.skribly.pl/pl/wydania/0001-opus-and-gpt-6/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0001-opus-and-gpt-6/</guid><pubDate>Thu, 24 Sep 2026 00:00:00 GMT</pubDate><category>Modele</category><category>Agenci</category><category>Narzędzia</category><category>Badania</category><category>Prawo i polityka</category><category>Open source</category><category>Skribly</category><description>Anthropic wydał Claude Opus 5.5 w dniu, w którym OpenAI dodał do API GPT-6 Sol i Luna. Poza tym: Grok 4.7, system enzymów odkryty przez agentów Claude, apel przywódców o kontrolę nad najmocniejszą AI i agenci w Dev Containers.</description><content:encoded><![CDATA[<p>Anthropic wydał Claude Opus 5.5 w dniu, w którym OpenAI dodał do API GPT-6 Sol i Luna. Poza tym: Grok 4.7, system enzymów odkryty przez agentów Claude, apel przywódców o kontrolę nad najmocniejszą AI i agenci w Dev Containers.</p>
+<h2>Claude Opus 5.5 i GPT-6 tego samego dnia</h2>
+<h3>Opus 5.5 w większości zadań na poziomie Fable 5.1</h3>
+<p>Anthropic wydał 22 września 2026 Claude Opus 5.5, pierwszy model z rodziny Claude 5.5. Według Anthropic w większości
+zadań działa na poziomie Claude Fable 5.1, a odpowiada o ponad 30% szybciej niż Opus 5. W Terminal-Bench 4.0 ma 66,4%
+wobec 55,8% dla Fable 5.1 i 52,3% dla Opusa 5. W automatycznym audycie zachowania Anthropic to najlepszy model, jaki do
+tej pory testowano, a próby obchodzenia wyznaczonych granic zdarzały mu się o około 85% rzadziej niż Opusowi 5.
+Anthropic zauważa też, że model często podejrzewa, że jest testowany, przez co trudniej przewidzieć, jak zachowa się
+w prawdziwej pracy. Sonnet 5.5 i Haiku 5.5 mają przyjść w kolejnych tygodniach.</p>
+<p>Źródło: <a href="https://www.anthropic.com/news/claude-opus-5-5">Anthropic: Claude Opus 5.5</a></p>
+<h2>W skrócie</h2>
+<h3>OpenAI dodaje do API GPT-6 Sol i GPT-6 Luna</h3>
+<p>Tego samego dnia, 22 września 2026, OpenAI udostępnił w API dwa modele rozumujące, które przyjmują tekst i obrazy,
+a odpowiadają tekstem. GPT-6 Sol jest zbudowany do złożonego programowania i pracy agentowej, a GPT-6 Luna to według
+OpenAI jego najwydajniejszy model do wąskich zadań w dużej skali. Oba mają okno kontekstu 1 050 000 tokenów i odpowiedź
+do 128 000 tokenów. W Responses API Sol może korzystać między innymi z wyszukiwania w sieci, hostowanej powłoki,
+obsługi komputera i MCP.</p>
+<p>Źródła: <a href="https://developers.openai.com/api/docs/changelog">OpenAI: dziennik zmian API</a> · <a href="https://developers.openai.com/api/docs/models/gpt-6-sol">OpenAI: GPT-6 Sol</a> · <a href="https://developers.openai.com/api/docs/models/gpt-6-luna">OpenAI: GPT-6 Luna</a></p>
+<h3>Grok 4.7 do programowania i pracy z wiedzą</h3>
+<p>xAI opublikował 21 września 2026 Grok 4.7; zapowiedź nazywa go najmocniejszym modelem firmy do programowania i pracy
+z wiedzą.
+Stoi na nowym, większym modelu bazowym niż Grok 4.6 i przeszedł dłuższy trening ze wzmocnieniem na trudniejszych
+zadaniach, z których wiele zajmuje godziny. W Terminal-Bench 4.0 ma 37,6% wobec 20,3% dla Groka 4.6. Jest dostępny
+w Cursorze, Grok Build i Grok API.</p>
+<p>Źródło: <a href="https://x.ai/news/grok-4-7">xAI: Grok 4.7</a></p>
+<h3>Agenci Claude znaleźli nieznany system enzymów</h3>
+<p>23 września 2026 Anthropic opisał, jak Claude znalazł rodzinę nazwaną „array-associated reverse transcriptases” (ART):
+odwrotną transkryptazę, sąsiedni gen o nieznanej roli i długi ciąg równo rozmieszczonych powtórzeń DNA. Około 950
+agentów pracowało przez 21 godzin, zebrało ponad 200 tysięcy odwrotnych transkryptaz, znalazło 3500 kandydatów
+i opisało 20 najciekawszych. W pierwszych testach w laboratorium naukowcy zobaczyli, że ten ciąg powtórzeń daje zestaw
+osobnych krótkich RNA. Do czego służy cały system, wciąż nie wiadomo.</p>
+<p>Źródło: <a href="https://www.anthropic.com/research/claude-discovers-novel-enzyme-system">Anthropic: Claude discovers a novel enzyme system</a></p>
+<h3>Przywódcy apelują o kontrolę nad najmocniejszą AI</h3>
+<p>22 września 2026 opublikowano oświadczenie 22 przywódców, wśród nich przewodniczącej Komisji Europejskiej, według
+którego AI musi pozostać pod kierownictwem, nadzorem i kontrolą człowieka. Firmy mają przyjąć jawne zasady
+bezpieczeństwa z obowiązkowymi testami przed udostępnieniem modelu i niezależną oceną, a rządy wspólne standardy
+i wymianę zgłoszeń o poważnych incydentach. Państwa ONZ mają rozważyć międzynarodową instytucję, która ustalałaby
+standardy i umożliwiała weryfikację. Pod oświadczeniem mogą się dopisać kolejni przywódcy.</p>
+<p>Źródło: <a href="https://www.government.nl/documents/2026/09/22/a-call-for-control-of-frontier-ai-models">Rząd Holandii: A call for control of frontier AI models</a></p>
+<h3>VS Code 1.139 uruchamia agentów w Dev Containers na zdalnych maszynach</h3>
+<p>VS Code 1.139 z 23 września 2026 pozwala agentom pracować w Dev Containerze projektu na maszynach przez SSH, Tunnel
+i WSL, a nie tylko w lokalnych folderach. Funkcja jest włączana stopniowo przez ustawienie
+<code>chat.agentHost.devContainer.enabled</code> i wymaga Dockera na zdalnej maszynie. Nowy host agentów uruchamia ich w osobnym
+procesie, więc do jednej sesji może dołączyć kilka okien, a lista sesji otwiera się około 12 razy szybciej.</p>
+<p>Źródło: <a href="https://code.visualstudio.com/updates/v1_139">Visual Studio Code: September 2026 (version 1.139)</a></p>
+<h3>Google dodaje szyfrowaną pamięć do Private AI Compute</h3>
+<p>23 września 2026 Google DeepMind dodał trwałą pamięć do Private AI Compute, który do tej pory zapominał wszystko po
+zakończeniu zadania. Pamięć leży w osobnym, zaszyfrowanym magazynie, a klucze są wyłącznie na urządzeniach
+użytkownika. Dane są odszyfrowywane na krótko w sprzętowo odizolowanej enklawie i od razu szyfrowane ponownie. Google
+publikuje odporny na manipulacje publiczny rejestr oprogramowania swoich serwerów, nowy opis techniczny i wyniki
+niezależnego audytu.</p>
+<p>Źródło: <a href="https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/">Google DeepMind: Advancing Private AI Compute with secure server-side memory</a></p>
+<h2>Ze Skribly</h2>
+<h3>Śledź Skribly na Discordzie</h3>
+<p>To archiwalne wydanie powstało później, 12 listopada 2026. Jeśli chcesz śledzić, co z tygodnia na tydzień budujemy
+w Skribly, i zadawać pytania, dołącz do serwera Skribly na Discordzie: krótki adres dc.skribly.pl prowadzi do
+zaproszenia.</p>
+<p>Źródło: <a href="https://dc.skribly.pl/pl/">dc.skribly.pl</a></p>
+<h2>Do wypróbowania</h2>
+<h3>Wypróbuj goose, otwartego agenta, który działa z wieloma modelami</h3>
+<p>goose to otwarty agent AI na licencji Apache 2.0, który instaluje, uruchamia, edytuje i testuje kod z dowolnym modelem
+językowym. Wersja 1.52.0 z 23 września 2026 dodaje rozmowy głosowe na żywo w aplikacji na komputer i obsługę Claude
+Opus 5.5, GPT-6 Sol i GPT-6 Luna. Możesz pobrać aplikację na macOS, Linuksa i Windows albo zainstalować wersję na
+terminal, tak jak pokazuje README. Wydanie poprawia też bezpieczeństwo: na przykład przepisy
+(recipes) potrzebują teraz twojej zgody, zanim uruchomią rozszerzenia.</p>
+<p>Źródła: <a href="https://github.com/aaif-goose/goose/releases/tag/v1.52.0">GitHub: goose v1.52.0</a> · <a href="https://github.com/aaif-goose/goose">GitHub: aaif-goose/goose</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0001-opus-and-gpt-6/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
 </channel>
 </rss>
