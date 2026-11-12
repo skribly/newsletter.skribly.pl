@@ -1,0 +1,20 @@
+# Skribly Newsletter
+
+> A free weekly newsletter with AI news worth reading and what is new in Skribly. Every item has its source; no tracking.
+
+A short e-mail every week: what happened in AI that is worth your time, and what is new in Skribly.
+
+## Pages
+
+- [Issues](https://newsletter.skribly.pl/issues/): Every issue of Skribly Newsletter, newest first: AI news with a source under every item. Polish: https://newsletter.skribly.pl/pl/wydania/
+- [About the newsletter](https://newsletter.skribly.pl/about/): Who writes Skribly Newsletter, how often it comes, how an issue is made and what it never does. Polish: https://newsletter.skribly.pl/pl/o-newsletterze/
+- [Privacy](https://newsletter.skribly.pl/privacy/): What Skribly Newsletter stores about a subscriber, why, for how long, and how to have it removed. Polish: https://newsletter.skribly.pl/pl/prywatnosc/
+- [RSS feed](https://newsletter.skribly.pl/rss.xml): RSS 2.0, every issue in full. Polish: https://newsletter.skribly.pl/pl/rss.xml
+
+## Issues
+
+No issues yet: the first one is being written.
+
+## Optional
+
+- [Licences](https://newsletter.skribly.pl/licenses/): The open source software and fonts that this site ships, each with its licence and its licence text.

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>Skribly Newsletter</title>
+<link>https://newsletter.skribly.pl/</link>
+<description>AI news worth reading and what is new in Skribly, every week, with a source under every item.</description>
+<language>en-GB</language>
+<lastBuildDate>Thu, 12 Nov 2026 00:00:00 GMT</lastBuildDate>
+<atom:link href="https://newsletter.skribly.pl/rss.xml" rel="self" type="application/rss+xml"/>
+<image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/</link></image>
+</channel>
+</rss>
