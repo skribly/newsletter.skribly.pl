@@ -13,7 +13,7 @@ A short e-mail every week: what happened in AI that is worth your time, and what
 
 ## Issues
 
-No issues yet: the first one is being written.
+- [Issue 1: AI agents check Signal's code with proofs, and new models](https://newsletter.skribly.pl/issues/0001-agents-verify-signal/): Google DeepMind used AI agents to prove security properties of the code behind Signal. Also: Claude Fable 5.2, Gemini 4 Carbon for everyone, open weights from Mistral and a coding agent from DeepSeek. Polish: https://newsletter.skribly.pl/pl/wydania/0001-agents-verify-signal/
 
 ## Optional
 

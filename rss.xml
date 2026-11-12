@@ -8,5 +8,86 @@
 <lastBuildDate>Thu, 12 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/</link></image>
+<item><title>AI agents check Signal&#39;s code with proofs, and new models</title><link>https://newsletter.skribly.pl/issues/0001-agents-verify-signal/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0001-agents-verify-signal/</guid><pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate><category>Research</category><category>Models</category><category>Agents</category><category>Tools</category><category>Open source</category><category>Policy</category><category>Skribly</category><description>Google DeepMind used AI agents to prove security properties of the code behind Signal. Also: Claude Fable 5.2, Gemini 4 Carbon for everyone, open weights from Mistral and a coding agent from DeepSeek.</description><content:encoded><![CDATA[<p>Google DeepMind used AI agents to prove security properties of the code behind Signal. Also: Claude Fable 5.2, Gemini 4 Carbon for everyone, open weights from Mistral and a coding agent from DeepSeek.</p>
+<h2>AI agents check Signal&#39;s code with proofs</h2>
+<h3>People choose what to prove, agents write the proofs</h3>
+<p>On 10 November 2026 Google DeepMind presented AlphaProof Code, a system in which people decide what to prove and AI
+agents do the proving. Experts first turned the security goals of the Signal protocol into formal specifications and
+reviewed each one; agents running on Gemini Carbon then proved them against the compiled code that runs on devices, not
+only against the design. The work produced over six million lines of Lean, which checks every proof by machine, and
+took four weeks. As a test, the team put two old, already fixed bugs back into an isolated copy of the code, and in both
+cases the system produced a proof that the buggy version was insecure. DeepMind is publishing the verification
+artifacts and a technical paper.</p>
+<p>Source: <a href="https://deepmind.google/blog/introducing-alphaproof-code/">Google DeepMind: Introducing AlphaProof Code</a></p>
+<h2>In brief</h2>
+<h3>Claude Fable 5.2: faster, and able to lead other agents</h3>
+<p>Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on 9 November 2026. They are the same underlying model:
+Fable has stronger safeguards and is open to everyone, while Mythos goes to verified cybersecurity and life-science
+organisations. Anthropic reports gains in coding, reasoning and vision, and output up to 30% faster than version 5.1.
+Fable can also coordinate other agents; in one experiment it led over 1,000 subagents for eight days to build a
+prototype operating system.</p>
+<p>Source: <a href="https://www.anthropic.com/claude-fable-and-mythos-5-2">Anthropic: Introducing Claude Fable 5.2 and Claude Mythos 5.2</a></p>
+<h3>Gemini 4 Carbon opens beyond security teams</h3>
+<p>Google introduced Gemini 4 Carbon on 28 October 2026 as its strongest model, aimed at cybersecurity and long,
+multi-step work, and first gave it only to a group of cyber defenders. On 10 November Google made it available to
+developers, businesses and consumers, among other places through the Gemini API in Google AI Studio and in Android
+Studio. Google says internal teams have seen it run for days on engineering tasks such as finding and patching bugs in
+large codebases.</p>
+<p>Sources: <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/">Google: Gemini 4 Carbon is now available</a> · <a href="https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/">Google: Gemini 4 Carbon, our next frontier model</a></p>
+<h3>Mistral publishes the weights of Mistral Large 4</h3>
+<p>On 29 October 2026 Mistral released the weights of Mistral Large 4, which it calls &quot;Le Chonk&quot;: a model with about one
+trillion parameters, of which about 52 billion are active per token, and a context of one million tokens. Mistral aims
+it at agentic coding and defensive cybersecurity. The licence is a modified MIT licence that allows commercial use;
+offering the model as a hosted service needs a separate licence. The weights are on Hugging Face.</p>
+<p>Sources: <a href="https://mistral.ai/news/mistral-large-4-oss/">Mistral AI: Le Chonk, built for coders, trusted by defenders</a> · <a href="https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B">Hugging Face: Mistral-Large-4-1T-A52B</a></p>
+<h3>DeepSeek shares a coding agent that waits to be asked</h3>
+<p>DeepSeek published dsh-superagent on GitHub on 31 October 2026, under the MIT licence. It watches one GitHub
+repository, and when an allowed person asks for work, it opens a work item, does the work in its own session and
+answers in the same conversation, for example with a pull request. Its rule is to take as little human attention as
+possible. The README calls it a research prototype, not an official DeepSeek product.</p>
+<p>Source: <a href="https://github.com/deepseek-ai/dsh-superagent-prototype">GitHub: deepseek-ai/dsh-superagent-prototype</a></p>
+<h3>Agent Skills gets a neutral home</h3>
+<p>On 22 October 2026 Anthropic gave the Agent Skills standard, the format in which a skill is a folder with a <code>SKILL.md</code>
+file, to the Agentic AI Foundation under the Linux Foundation. The foundation already holds the Model Context Protocol.
+The planned roadmap includes versioned releases, a formal proposal process and security guidance for people who write
+and install skills. Anyone can take part without joining the foundation.</p>
+<p>Source: <a href="https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation">Anthropic: Donating Agent Skills to the Agentic AI Foundation</a></p>
+<h3>Ask GitHub from Slack and Teams</h3>
+<p>Since 6 November 2026 <code>@GitHub</code> in Slack and Microsoft Teams is generally available. From a conversation you can
+investigate a bug, create an issue, make changes and open a pull request. Issues and pull requests it creates say that
+they came from such a conversation and who asked.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-06-github-copilot-in-slack-and-teams-is-generally-available">GitHub Changelog: @GitHub in Slack and Teams is generally available</a></p>
+<h3>EU asks how elections should deal with generative AI</h3>
+<p>On 10 November 2026 the European Commission opened a consultation on revised election guidelines under the Digital
+Services Act for the largest platforms and search engines. It names the fast change of technology, &quot;particularly
+generative Artificial Intelligence&quot;, as one reason for the update. Views can be sent until 23 November 2026.</p>
+<p>Source: <a href="https://digital-strategy.ec.europa.eu/en/news/commission-invites-views-draft-revised-election-guidelines-under-digital-services-act">European Commission: draft revised election guidelines under the DSA</a></p>
+<h2>From Skribly</h2>
+<h3>The Skribly Discord server is open</h3>
+<p>The short address dc.skribly.pl takes you to the invite of the Skribly Discord server. It is the place to ask
+questions and talk with the people who build Skribly.</p>
+<p>Source: <a href="https://dc.skribly.pl/">dc.skribly.pl</a></p>
+<h3>One page for all our projects</h3>
+<p>projects.skribly.pl lists the projects our team builds and will build, each with what it is, what it is made of and
+where it stands. Skribly is the first; more will follow.</p>
+<p>Source: <a href="https://projects.skribly.pl/">projects.skribly.pl</a></p>
+<h3>Docs and the UI kit are online</h3>
+<p>docs.skribly.pl holds the guides and reference for every Skribly tool and now has search on its home page. ui.skribly.pl
+shows the design system live: tokens, plain CSS and React components on React Aria, in light, dark and high contrast.</p>
+<p>Sources: <a href="https://docs.skribly.pl/">docs.skribly.pl</a> · <a href="https://ui.skribly.pl/">ui.skribly.pl</a></p>
+<h3>Skribly Agent will be free to download</h3>
+<p>Skribly Agent, the desktop app where coding agents work side by side, will be free to download and use. There is no
+date yet: the installers will appear on the download page when the app is published. Skribly is a non-commercial
+project we build in our spare time.</p>
+<p>Source: <a href="https://skribly.pl/download/">skribly.pl/download</a></p>
+<h2>One thing to try</h2>
+<h3>Look inside an MCP server with MCP Inspector</h3>
+<p>MCP Inspector is the free, open-source tool of the Model Context Protocol project for checking an MCP server. Run
+<code>npx @modelcontextprotocol/inspector</code> to open its web view, connect it to a server you already use and see its tools,
+resources and prompts. Prefer the terminal? <code>npx @modelcontextprotocol/inspector --cli node build/index.js --method tools/list</code>
+lists the tools of a local server. Version 2 stores tokens and secrets in the system keychain where there is one, so
+read its note on secrets first.</p>
+<p>Source: <a href="https://github.com/modelcontextprotocol/inspector">GitHub: modelcontextprotocol/inspector</a></p>
+<p><a href="https://newsletter.skribly.pl/issues/0001-agents-verify-signal/">Read the whole issue</a></p>]]></content:encoded></item>
 </channel>
 </rss>
