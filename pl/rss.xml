@@ -5,9 +5,29 @@
 <link>https://newsletter.skribly.pl/pl/</link>
 <description>Wiadomości z AI, które warto przeczytać, i nowości w Skribly, co rano i co tydzień, ze źródłem pod każdą wiadomością.</description>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 12 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/pl/</link></image>
+<item><title>Skribly AI News: Codex, OpenCode, Claude Code i GitHub</title><link>https://newsletter.skribly.pl/pl/wydania/0010-daily-2026-11-13/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0010-daily-2026-11-13/</guid><pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate><category>Agenci</category><category>Narzędzia</category><description>To wydanie omawia ostatnie aktualizacje OpenAI Codex, OpenCode, Claude Code oraz nowe funkcje zarządzania AI w serwisie GitHub.</description><content:encoded><![CDATA[<p>To wydanie omawia ostatnie aktualizacje OpenAI Codex, OpenCode, Claude Code oraz nowe funkcje zarządzania AI w serwisie GitHub.</p>
+<p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
+<h2>Skribly AI News: Codex, OpenCode, Claude Code i GitHub</h2>
+<h3>OpenAI Codex 0.169.0</h3>
+<p>Najnowsze wydanie wprowadza opcjonalną przestrzeń roboczą terminala obsługującą wiele kart czatów bocznych. Użytkownicy mogą przełączać się między nimi za pomocą klawiatury lub myszy oraz ponowne otwierać zapisane lokalne czaty po restarcie programu. Dodano także wyszukiwanie starszych zadań w centrum dowodzenia agenta.</p>
+<p>Źródło: <a href="https://github.com/openai/codex/releases/tag/rust-v0.169.0">OpenAI Codex releases: 0.169.0</a></p>
+<h2>W skrócie</h2>
+<h3>OpenCode v2.3.0</h3>
+<p>Wersja v2.3.0 wyróżnia podagentów działających domyślnie w tle, co pozwala im natychmiast wracać do działania i kontynuować pracę, gdy staną się bezczynni. Programiści mogą pracować w sesji nadrzędnej, podczas gdy wielu podagentów działa współbieżnie. Zapisy rozmów stały się też domyślnie spokojniejsze.</p>
+<p>Źródło: <a href="https://github.com/anomalyco/opencode/releases/tag/v2.3.0">OpenCode releases: v2.3.0</a></p>
+<h3>Claude Code v2.1.323</h3>
+<p>Claude Code dodaje tryb kodu jako eksperymentalną funkcję opcjonalną, w której Claude pisze kod w języku JavaScript do wywoływania swoich narzędzi. Wersja ta wprowadza również obsługę parametrów silników w pliku plugin.json.</p>
+<p>Źródło: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.323">Claude Code releases: v2.1.323</a></p>
+<h3>Zarządzanie skanowaniem AI przez REST API</h3>
+<p>GitHub pozwala teraz włączać i wyłączać funkcję AI Scan skanowania kodu dla repozytoriów za pomocą REST API. Ta funkcja jest dostępna na poziomie organizacji oraz repozytoriów w ramach publicznej wersji zapoznawczej.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api">GitHub Changelog: Manage AI Scan for repositories using the REST API</a></p>
+<h3>Skanowanie sekretów wykrywa tokeny Cloudflare</h3>
+<p>Skanowanie sekretów automatycznie wykrywa teraz tokeny usług Cloudflare w repozytoriach. Aktualizacja dodaje nowy detektor dla sekretów typu cloudflare_access_service_token.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare">GitHub Changelog: Secret scanning detects Cloudflare service tokens</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0010-daily-2026-11-13/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
 <item><title>Aktualizacje Codexa i nowe narzędzia programistyczne</title><link>https://newsletter.skribly.pl/pl/wydania/0009-daily-2026-11-12/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0009-daily-2026-11-12/</guid><pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate><category>Agenci</category><category>Narzędzia</category><category>Modele</category><description>Ten numer omawia najnowsze wydanie Codexa z przyrostowymi aktualizacjami narzędzi na Google Cloud Vertex AI oraz nowe funkcje planowania repozytoriów.</description><content:encoded><![CDATA[<p>Ten numer omawia najnowsze wydanie Codexa z przyrostowymi aktualizacjami narzędzi na Google Cloud Vertex AI oraz nowe funkcje planowania repozytoriów.</p>
 <p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
 <h2>Aktualizacje Codexa i nowe narzędzia programistyczne</h2>

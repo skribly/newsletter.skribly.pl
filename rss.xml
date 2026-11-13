@@ -5,9 +5,29 @@
 <link>https://newsletter.skribly.pl/</link>
 <description>AI news worth reading and what is new in Skribly, every morning and every week, with a source under every item.</description>
 <language>en-GB</language>
-<lastBuildDate>Thu, 12 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/</link></image>
+<item><title>Skribly AI News: Codex, OpenCode, Claude Code and GitHub</title><link>https://newsletter.skribly.pl/issues/0010-daily-2026-11-13/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0010-daily-2026-11-13/</guid><pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate><category>Agents</category><category>Tools</category><description>This edition covers recent updates to OpenAI Codex, OpenCode, Claude Code, and new AI management features in GitHub.</description><content:encoded><![CDATA[<p>This edition covers recent updates to OpenAI Codex, OpenCode, Claude Code, and new AI management features in GitHub.</p>
+<p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
+<h2>Skribly AI News: Codex, OpenCode, Claude Code and GitHub</h2>
+<h3>OpenAI Codex 0.169.0</h3>
+<p>The latest release brings an opt-in terminal workspace supporting multiple side-chat tabs. Users can switch between tabs using the keyboard or mouse and reopen saved local side chats after restarting Codex. It also adds a feature to search older tasks from the agent command center by name or prompt.</p>
+<p>Source: <a href="https://github.com/openai/codex/releases/tag/rust-v0.169.0">OpenAI Codex releases: 0.169.0</a></p>
+<h2>In brief</h2>
+<h3>OpenCode v2.3.0</h3>
+<p>Version v2.3.0 highlights background subagents by default, allowing subagents to return immediately and continue running in the background. Developers can keep working in the parent session while multiple subagents run concurrently. Transcripts are also quieter by default.</p>
+<p>Source: <a href="https://github.com/anomalyco/opencode/releases/tag/v2.3.0">OpenCode releases: v2.3.0</a></p>
+<h3>Claude Code v2.1.323</h3>
+<p>Claude Code adds Code Mode as an experimental opt-in feature where Claude writes JavaScript to call its tools. This version also introduces support for the engines parameter in plugin.json.</p>
+<p>Source: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.323">Claude Code releases: v2.1.323</a></p>
+<h3>Manage AI Scan via REST API</h3>
+<p>GitHub now lets you turn GitHub code scanning’s AI Scan for repositories on or off using the REST API. This feature is available at both organization and repository levels during public preview.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-13-manage-ai-scan-for-repositories-using-the-rest-api">GitHub Changelog: Manage AI Scan for repositories using the REST API</a></p>
+<h3>Secret scanning detects Cloudflare tokens</h3>
+<p>Secret scanning now automatically detects Cloudflare service tokens in your repositories. The update adds a new detector for cloudflare_access_service_token secrets.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-12-secret-scanning-adds-a-detector-for-cloudflare">GitHub Changelog: Secret scanning detects Cloudflare service tokens</a></p>
+<p><a href="https://newsletter.skribly.pl/issues/0010-daily-2026-11-13/">Read the whole issue</a></p>]]></content:encoded></item>
 <item><title>Codex Updates and New Developer Tools</title><link>https://newsletter.skribly.pl/issues/0009-daily-2026-11-12/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0009-daily-2026-11-12/</guid><pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate><category>Agents</category><category>Tools</category><category>Models</category><description>This issue covers the latest Codex release with incremental tool updates on Google Cloud Vertex AI, along with new repository planning features and API releases.</description><content:encoded><![CDATA[<p>This issue covers the latest Codex release with incremental tool updates on Google Cloud Vertex AI, along with new repository planning features and API releases.</p>
 <p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
 <h2>Codex Updates and New Developer Tools</h2>
