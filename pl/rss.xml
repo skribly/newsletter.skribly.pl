@@ -5,9 +5,29 @@
 <link>https://newsletter.skribly.pl/pl/</link>
 <description>Wiadomości z AI, które warto przeczytać, i nowości w Skribly, co rano i co tydzień, ze źródłem pod każdą wiadomością.</description>
 <language>pl-PL</language>
-<lastBuildDate>Fri, 13 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 14 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/pl/</link></image>
+<item><title>Gemini 4 Hydrogen trafia do GitHub Copilot</title><link>https://newsletter.skribly.pl/pl/wydania/0011-daily-2026-11-14/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0011-daily-2026-11-14/</guid><pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate><category>Narzędzia</category><category>Agenci</category><category>Open source</category><description>To wydanie omawia pojawienie się modelu Gemini 4 Hydrogen w GitHub Copilot oraz inne nowości w ekosystemie deweloperskim.</description><content:encoded><![CDATA[<p>To wydanie omawia pojawienie się modelu Gemini 4 Hydrogen w GitHub Copilot oraz inne nowości w ekosystemie deweloperskim.</p>
+<p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
+<h2>Gemini 4 Hydrogen trafia do GitHub Copilot</h2>
+<h3>Gemini 4 Hydrogen w GitHub Copilot</h3>
+<p>Najnowszy model Flash od Google, Gemini 4 Hydrogen, jest now ogólnie dostępny w GitHub Copilot. Został zaprojektowany z myślą o szybkim, wydajnym kodowaniu agentowym, użyciu narzędzi i wieloetapowych przepływach pracy.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-13-gemini-4-hydrogen-in-github-copilot">GitHub Changelog: Gemini 4 Hydrogen in GitHub Copilot</a></p>
+<h2>W skrócie</h2>
+<h3>Wydano Claude Code v2.1.325</h3>
+<p>Najnowsza wersja naprawia problem bezpieczeństwa związany ze sposobem dekodowania odpowiedzi skompresowanych za pomocą zstd. Dodano również wskazówkę w VS Code i podobnych terminalach dotyczącą ponownego uruchamiania komórki notatnika.</p>
+<p>Źródło: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.325">Claude Code releases: v2.1.325</a></p>
+<h3>Nadchodzące wycofanie modeli w GitHub Copilot</h3>
+<p>GitHub ogłosił nadchodzące wycofanie wybranych modeli we wszystkich doświadczeniach GitHub Copilot, w tym w czacie, edycjach w tekście, trybach zapytań i agentów oraz uzupełnianiu kodu.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-13-upcoming-deprecation-of-selected-github-copilot-models-in-december">GitHub Changelog: Upcoming deprecation of selected GitHub Copilot models in December</a></p>
+<h3>Obsługa GitHub Enterprise Server w aplikacji Copilot</h3>
+<p>Użytkownicy mogą teraz przenieść pracę z GitHub Enterprise Server do aplikacji GitHub Copilot. Pozwala to dodać konto GHES do pracy ze zdalnymi repozytoriami, zgłoszeniami i żądaniami ściągnięcia.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-13-github-enterprise-server-support-in-the-github-copilot-app">GitHub Changelog: GitHub Enterprise Server support in the GitHub Copilot app</a></p>
+<h3>Transformers v5.23.0 dodaje Inkling2</h3>
+<p>Wersja v5.23.0 dodaje Inkling2, mały model multimodalny od Thinking Machines Lab, który akceptuje dane tekstowe i obrazowe oraz generuje tekst dla wielu języków programowania.</p>
+<p>Źródło: <a href="https://github.com/huggingface/transformers/releases/tag/v5.23.0">Transformers releases: Release v5.23.0</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0011-daily-2026-11-14/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
 <item><title>Skribly AI News: Codex, OpenCode, Claude Code i GitHub</title><link>https://newsletter.skribly.pl/pl/wydania/0010-daily-2026-11-13/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0010-daily-2026-11-13/</guid><pubDate>Fri, 13 Nov 2026 00:00:00 GMT</pubDate><category>Agenci</category><category>Narzędzia</category><description>To wydanie omawia ostatnie aktualizacje OpenAI Codex, OpenCode, Claude Code oraz nowe funkcje zarządzania AI w serwisie GitHub.</description><content:encoded><![CDATA[<p>To wydanie omawia ostatnie aktualizacje OpenAI Codex, OpenCode, Claude Code oraz nowe funkcje zarządzania AI w serwisie GitHub.</p>
 <p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
 <h2>Skribly AI News: Codex, OpenCode, Claude Code i GitHub</h2>
