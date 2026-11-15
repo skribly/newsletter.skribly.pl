@@ -1,5 +1,5 @@
 import { n as e } from "./motion.DMAhcwwu.js";
-import { n as t } from "./strings.By9TPO35.js";
+import { n as t } from "./strings.V5Od_1H7.js";
 var n = 1.5, r = {
 	scale: 1,
 	x: 0,
