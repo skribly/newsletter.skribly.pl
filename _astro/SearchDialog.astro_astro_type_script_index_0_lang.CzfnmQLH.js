@@ -1,7 +1,4 @@
-function e(e, t) {
-	let n = e % 100, r = e % 10;
-	return e === 1 ? `${e} ${t.searchOne}` : r >= 2 && r <= 4 && (n < 12 || n > 14) ? `${e} ${t.searchFew}` : `${e} ${t.searchMany}`;
-}
+import { t as e } from "./strings.By9TPO35.js";
 function t(e) {
 	if (!e || typeof e.closest != `function`) return !1;
 	let t = e;

@@ -1,4 +1,4 @@
-import { a as e, i as t, n, r, t as i } from "./cookie.Ltd5ABer.js";
+import { a as e, i as t, n, r, t as i } from "./cookie.WUIEkvav.js";
 import { t as a } from "./motion.DMAhcwwu.js";
 var o = `sk-a11y`, s = [
 	100,
@@ -137,6 +137,19 @@ function E(e) {
 function D(e = document) {
 	let t = e.documentElement, n = w(e.defaultView);
 	T(n) === `hidden` && (t.dataset.skCorner = `hidden`);
+	for (let t of e.querySelectorAll(`.sk-corner-link:not([data-sk-tip-ready])`)) {
+		t.dataset.skTipReady = ``;
+		let n = t.querySelector(`.sk-corner-link__link`);
+		if (!n) continue;
+		let r = () => {
+			!n.matches(`:hover`) && e.activeElement !== n && delete t.dataset.skTip;
+		};
+		n.addEventListener(`keydown`, (e) => {
+			e.key === `Escape` && (t.dataset.skTip = `off`);
+		}), e.addEventListener(`keydown`, (e) => {
+			e.key === `Escape` && n.matches(`:hover`) && (t.dataset.skTip = `off`);
+		}), n.addEventListener(`pointerleave`, r), n.addEventListener(`focusout`, () => queueMicrotask(r));
+	}
 	for (let r of e.querySelectorAll(`[data-sk-corner-close]:not([data-sk-ready])`)) r.dataset.skReady = ``, r.addEventListener(`click`, () => {
 		t.dataset.skCorner = `hidden`, E(n), e.querySelector(`main`)?.focus();
 	});

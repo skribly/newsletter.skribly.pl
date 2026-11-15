@@ -1,4 +1,4 @@
-import { a as e, i as t, n, r, t as i } from "./cookie.Ltd5ABer.js";
+import { a as e, i as t, n, r, t as i } from "./cookie.WUIEkvav.js";
 import { n as a } from "./motion.DMAhcwwu.js";
 var o = `sk-theme`, s = `sk-theme-change`, c = [
 	`light`,

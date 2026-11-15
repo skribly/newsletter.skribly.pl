@@ -97,8 +97,13 @@ var e = {
 	projects: `Skribly Projects`
 }, n = `skribly.pl`;
 t.skribly, { ...e.skribly }, t.agent, { ...e.agent }, t.tracker, { ...e.tracker }, t.skills, { ...e.skills }, t.docs, { ...e.docs }, t.ui, { ...e.ui }, t.newsletter, { ...e.newsletter };
-var r = 31536e3;
-function i(e, t) {
+var r = (e) => ({
+	en: `https://${e}.${n}/`,
+	pl: `https://${e}.${n}/pl/`
+});
+t.status, r(`status`), t.trust, r(`trust`), t.tools, r(`tools`), t.projects, r(`projects`), r(`dc`), t.id, r(`id`), t.hub, r(`hub`), t.api, r(`api`), t.feedback, r(`feedback`), t.tracker, r(`tracker`), r(`time`);
+var i = 31536e3;
+function a(e, t) {
 	for (let n of e.split(`;`)) {
 		let [e, ...r] = n.trim().split(`=`);
 		if (e === t) try {
@@ -109,44 +114,44 @@ function i(e, t) {
 	}
 	return null;
 }
-function a(e) {
+function o(e) {
 	let t = e.toLowerCase();
 	if (t === `skribly.pl` || t.endsWith(`.skribly.pl`)) return `.${n}`;
 }
-function o(e, t, { domain: n, secure: i, maxAge: a = r } = {}) {
+function s(e, t, { domain: n, secure: r, maxAge: a = i } = {}) {
 	return [
 		`${e}=${encodeURIComponent(t)}`,
 		`Path=/`,
 		`Max-Age=${a}`,
 		`SameSite=Lax`,
 		n ? `Domain=${n}` : ``,
-		i ? `Secure` : ``
+		r ? `Secure` : ``
 	].filter(Boolean).join(`; `);
 }
-function s(e, t, n) {
+function c(e, t, n) {
 	let r = e.defaultView?.location;
-	e.cookie = o(t, n, {
-		domain: a(r?.hostname ?? ``),
+	e.cookie = s(t, n, {
+		domain: o(r?.hostname ?? ``),
 		secure: r?.protocol === `https:`
 	});
 }
-function c(e = globalThis.window) {
+function l(e = globalThis.window) {
 	try {
 		return e?.localStorage ?? null;
 	} catch {
 		return null;
 	}
 }
-function l(e, t) {
+function u(e, t) {
 	try {
 		return e?.getItem(t) ?? null;
 	} catch {
 		return null;
 	}
 }
-function u(e, t, n) {
+function d(e, t, n) {
 	try {
 		e?.setItem(t, n);
 	} catch {}
 }
-export { u as a, s as i, i as n, l as r, c as t };
+export { d as a, c as i, a as n, u as r, l as t };

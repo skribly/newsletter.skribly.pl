@@ -9,13 +9,13 @@ function t(t, n, r) {
 var n = 0;
 function r(r, i, a, { doc: o = r.ownerDocument } = {}) {
 	let s = `sk-assistant-${++n}`, c = e(o, `button`, `sk-icon-button sk-assistant-button`);
-	c.type = `button`, c.setAttribute(`aria-haspopup`, `dialog`), c.setAttribute(`aria-label`, a.open), c.title = a.open, c.innerHTML = `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M12 3l1.8 5.2L19 10l-5.2 1.8L12 17l-1.8-5.2L5 10l5.2-1.8zM18.5 15l.8 2.2 2.2.8-2.2.8-.8 2.2-.8-2.2-2.2-.8 2.2-.8z"/></svg>`;
+	c.type = `button`, c.setAttribute(`aria-haspopup`, `dialog`), c.setAttribute(`aria-label`, a.open), c.title = a.open, c.innerHTML = `<svg class="sk-icon" data-icon="ai.sparkles" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M11.017 2.814a1 1 0 0 1 1.966 0l1.051 5.558a2 2 0 0 0 1.594 1.594l5.558 1.051a1 1 0 0 1 0 1.966l-5.558 1.051a2 2 0 0 0-1.594 1.594l-1.051 5.558a1 1 0 0 1-1.966 0l-1.051-5.558a2 2 0 0 0-1.594-1.594l-5.558-1.051a1 1 0 0 1 0-1.966l5.558-1.051a2 2 0 0 0 1.594-1.594z"/><path d="M20 2v4"/><path d="M22 4h-4"/><circle cx="4" cy="20" r="2"/></svg>`;
 	let l = e(o, `dialog`, `sk-assistant`);
 	l.setAttribute(`aria-labelledby`, `${s}-title`);
 	let u = e(o, `div`, `sk-assistant__head`), d = e(o, `h2`, `sk-assistant__title`, a.title);
 	d.id = `${s}-title`;
 	let f = e(o, `button`, `sk-icon-button`);
-	f.type = `button`, f.setAttribute(`aria-label`, a.close), f.innerHTML = `<svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M6 6l12 12M18 6 6 18"></path></svg>`, u.append(d, f);
+	f.type = `button`, f.setAttribute(`aria-label`, a.close), f.innerHTML = `<svg class="sk-icon" data-icon="action.close" viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18 6 6 18"/><path d="m6 6 12 12"/></svg>`, u.append(d, f);
 	let p = e(o, `div`, `sk-assistant__log`);
 	p.setAttribute(`role`, `log`), p.setAttribute(`aria-live`, `polite`), p.setAttribute(`aria-label`, a.log), p.tabIndex = 0;
 	let m = e(o, `p`, `sk-assistant__status`);
