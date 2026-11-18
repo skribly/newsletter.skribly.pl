@@ -5,9 +5,32 @@
 <link>https://newsletter.skribly.pl/</link>
 <description>AI news worth reading and what is new in Skribly, every morning and every week, with a source under every item.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 14 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/</link></image>
+<item><title>OpenAI Releases GPT-6.2 Astra and Sol</title><link>https://newsletter.skribly.pl/issues/0012-daily-2026-11-18/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0012-daily-2026-11-18/</guid><pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate><category>Models</category><category>Tools</category><category>Agents</category><description>OpenAI has announced GPT-6.2 Astra and Sol across ChatGPT Work, Codex, and the API. The new models focus on improved coding, computer use, and efficiency.</description><content:encoded><![CDATA[<p>OpenAI has announced GPT-6.2 Astra and Sol across ChatGPT Work, Codex, and the API. The new models focus on improved coding, computer use, and efficiency.</p>
+<p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
+<h2>OpenAI Releases GPT-6.2 Astra and Sol</h2>
+<h3>OpenAI introduces GPT-6.2 Astra and Sol</h3>
+<p>OpenAI has launched GPT-6.2 Astra and Sol. The models offer improved professional outputs, coding, computer use, and efficiency at lower cost. They are accessible across ChatGPT Work, Codex, and the API.</p>
+<p>Source: <a href="https://openai.com/index/introducing-gpt-6-2-astra-sol">OpenAI News: Introducing GPT-6.2 Astra and Sol</a></p>
+<h2>In brief</h2>
+<h3>MAI Code 2 and MAI Code 2 Flash join GitHub Copilot</h3>
+<p>The next generation of Microsoft AI coding models has arrived in GitHub Copilot. The update introduces MAI Code 2 and MAI Code 2 Flash. Both models represent a major update to the MAI coding series.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot">GitHub Changelog: MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</a></p>
+<h3>OpenAI Codex 0.170.0 adds WebRTC voice calls in TUI</h3>
+<p>OpenAI Codex 0.170.0 introduces WebRTC negotiation for realtime voice calls in the terminal interface. The release also adds automatically refreshed authentication headers for OpenTelemetry HTTP exporters. Additionally, it brings experimental support for identically named MCP servers across environments.</p>
+<p>Source: <a href="https://github.com/openai/codex/releases/tag/rust-v0.170.0">OpenAI Codex releases: 0.170.0</a></p>
+<h3>Claude Code v2.1.327 adds stdin JSON input for MCP servers</h3>
+<p>Claude Code v2.1.327 adds the claude mcp add-json - command to read server JSON configurations from stdin, keeping tokens off the command line. This command cannot be used inside an active Claude Code session. The release also introduces a confirmation prompt before /install-github-app modifies a repository.</p>
+<p>Source: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.327">Claude Code releases: v2.1.327</a></p>
+<h3>Visual Studio Code 1.147 Insiders introduces agent session management</h3>
+<p>Visual Studio Code 1.147 Insiders brings new developer features to the editor. The release includes agent session management and chat resources. It also brings improvements to Markdown editing.</p>
+<p>Source: <a href="https://code.visualstudio.com/updates/v1_147">Visual Studio Code updates: Visual Studio Code 1.147 (Insiders)</a></p>
+<h3>GitHub Copilot Evals launches in public preview</h3>
+<p>GitHub Copilot Evals is now available in public preview. The tool helps developers evaluate and optimize GitHub Copilot for their specific workflows. It tracks performance as prompts, models, skills, and tools change.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-17-github-copilot-evals-is-now-in-public-preview">GitHub Changelog: GitHub Copilot Evals is now in public preview</a></p>
+<p><a href="https://newsletter.skribly.pl/issues/0012-daily-2026-11-18/">Read the whole issue</a></p>]]></content:encoded></item>
 <item><title>Gemini 4 Hydrogen lands in GitHub Copilot</title><link>https://newsletter.skribly.pl/issues/0011-daily-2026-11-14/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0011-daily-2026-11-14/</guid><pubDate>Sat, 14 Nov 2026 00:00:00 GMT</pubDate><category>Tools</category><category>Agents</category><category>Open source</category><description>This edition covers the release of Gemini 4 Hydrogen in GitHub Copilot and other developer ecosystem updates.</description><content:encoded><![CDATA[<p>This edition covers the release of Gemini 4 Hydrogen in GitHub Copilot and other developer ecosystem updates.</p>
 <p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
 <h2>Gemini 4 Hydrogen lands in GitHub Copilot</h2>
