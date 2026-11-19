@@ -5,9 +5,32 @@
 <link>https://newsletter.skribly.pl/pl/</link>
 <description>Wiadomości z AI, które warto przeczytać, i nowości w Skribly, co rano i co tydzień, ze źródłem pod każdą wiadomością.</description>
 <language>pl-PL</language>
-<lastBuildDate>Wed, 18 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Thu, 19 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/pl/</link></image>
+<item><title>Gemini 4 Neon w GitHub Copilot</title><link>https://newsletter.skribly.pl/pl/wydania/0013-daily-2026-11-19/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0013-daily-2026-11-19/</guid><pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate><category>Narzędzia</category><category>Open source</category><category>Agenci</category><category>Modele</category><description>Model Gemini 4 Neon stał się ogólnie dostępny w GitHub Copilot do zadań programistycznych i pracy z wiedzą.</description><content:encoded><![CDATA[<p>Model Gemini 4 Neon stał się ogólnie dostępny w GitHub Copilot do zadań programistycznych i pracy z wiedzą.</p>
+<p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
+<h2>Gemini 4 Neon w GitHub Copilot</h2>
+<h3>Gemini 4 Neon jest ogólnie dostępny w GitHub Copilot</h3>
+<p>Model Gemini 4 Neon stał się ogólnie dostępny w GitHub Copilot. Został zaprojektowany do autonomicznego kodowania, wieloetapowego korzystania z narzędzi oraz pracy z wiedzą. Według Google model zapewnia wysoką jakość w takich zastosowaniach.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-18-gemini-4-neon-in-github-copilot">GitHub Changelog: Gemini 4 Neon in GitHub Copilot</a></p>
+<h2>W skrócie</h2>
+<h3>vLLM v0.34.0 dodaje 10 nowych modeli i domyślny bufor KV</h3>
+<p>Wydanie vLLM v0.34.0 wprowadza obsługę dziesięciu nowych modeli, w tym Mistral Large 4, MiniMax-M3.1-Flash oraz Nemotron-3.5-Transcribe. Rozszerzalny bufor KV cache jest teraz domyślnie włączony. System ustala jego rozmiar na podstawie pamięci rzeczywiście wolnej po fazie rozgrzewki.</p>
+<p>Źródło: <a href="https://github.com/vllm-project/vllm/releases/tag/v0.34.0">vLLM releases: v0.34.0</a></p>
+<h3>Claude Code v2.1.328 wprowadza tryb auto oraz zmiany w hookach</h3>
+<p>Wydanie Claude Code v2.1.328 dodaje tryb auto dla modeli Claude Opus 4.6 i Sonnet 4.6 w usługach Amazon Bedrock, Google Cloud Agent Platform, Microsoft Foundry oraz Claude apps gateway. W tym trybie uruchamiają się teraz sesje interaktywne bez włączonego permission mode. Dodano również ustawienie onFailure block dla hooków mcp_tool.</p>
+<p>Źródło: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.328">Claude Code releases: v2.1.328</a></p>
+<h3>GitHub CLI gh v2.105.0 wprowadza obsługę GitHub Event Streams</h3>
+<p>Narzędzie gh w wersji v2.105.0 obsługuje strumienie zdarzeń GitHub Event Streams. Programiści oraz ich agenci mogą czekać na aktualizacje pull requestów za pomocą pojedynczego polecenia. Eliminuje to potrzebę ciągłego odpytywania o stan zmian.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-18-wait-for-pull-request-events-with-github-cli">GitHub Changelog: Wait for pull request events with GitHub CLI</a></p>
+<h3>GitHub Copilot zyskuje konektory MCP dla kolejnych usług</h3>
+<p>Programiści mogą połączyć z GitHub Copilot osiem nowych usług, w tym Supabase, Box oraz Calendly. Integracje te wykorzystują zweryfikowane przez GitHub serwery MCP w wersji public preview. Rozszerzają one katalog ponad 25 wcześniej obsługiwanych narzędzi.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-18-connect-supabase-box-calendly-and-more-to-copilot">GitHub Changelog: Connect Supabase, Box, Calendly, and more to Copilot</a></p>
+<h3>OpenAI opisuje działanie piaskownicy wykonawczej Codex</h3>
+<p>OpenAI przedstawiło sposób, w jaki Codex wykonuje polecenia na maszynach z systemami macOS, Linux i Windows. Środowisko uruchomieniowe egzekwuje ograniczenia sieciowe oraz dostęp do systemu plików konfigurowane przez użytkownika.</p>
+<p>Źródło: <a href="https://openai.com/index/inside-the-codex-sandbox">OpenAI News: Inside the Codex sandbox</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0013-daily-2026-11-19/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
 <item><title>OpenAI prezentuje GPT-6.2 Astra oraz Sol</title><link>https://newsletter.skribly.pl/pl/wydania/0012-daily-2026-11-18/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0012-daily-2026-11-18/</guid><pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate><category>Modele</category><category>Narzędzia</category><category>Agenci</category><description>OpenAI udostepnilo modele GPT-6.2 Astra oraz Sol w ChatGPT Work, Codex i API. Nowe rozwiazania kłada nacisk na programowanie, obsluge komputera oraz zwiekszona wydajnosc.</description><content:encoded><![CDATA[<p>OpenAI udostepnilo modele GPT-6.2 Astra oraz Sol w ChatGPT Work, Codex i API. Nowe rozwiazania kłada nacisk na programowanie, obsluge komputera oraz zwiekszona wydajnosc.</p>
 <p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
 <h2>OpenAI prezentuje GPT-6.2 Astra oraz Sol</h2>
