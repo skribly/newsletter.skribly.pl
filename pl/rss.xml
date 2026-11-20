@@ -5,9 +5,29 @@
 <link>https://newsletter.skribly.pl/pl/</link>
 <description>Wiadomości z AI, które warto przeczytać, i nowości w Skribly, co rano i co tydzień, ze źródłem pod każdą wiadomością.</description>
 <language>pl-PL</language>
-<lastBuildDate>Thu, 19 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/pl/</link></image>
+<item><title>OpenAI Codex 0.171.0 dodaje GPT-6.2 Sol i Astra</title><link>https://newsletter.skribly.pl/pl/wydania/0014-daily-2026-11-20/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0014-daily-2026-11-20/</guid><pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate><category>Agenci</category><category>Modele</category><category>Open source</category><category>Narzędzia</category><description>Wydanie OpenAI Codex 0.171.0 dodaje modele GPT-6.2 Sol i Astra oraz domyslnie wlacza obszar roboczy TUI. W dzisiejszym wydaniu omawiamy rowniez funkcje Tool Retrieval w Gemini API oraz nowosci w Claude Code, Ollama i GitHub Actions.</description><content:encoded><![CDATA[<p>Wydanie OpenAI Codex 0.171.0 dodaje modele GPT-6.2 Sol i Astra oraz domyslnie wlacza obszar roboczy TUI. W dzisiejszym wydaniu omawiamy rowniez funkcje Tool Retrieval w Gemini API oraz nowosci w Claude Code, Ollama i GitHub Actions.</p>
+<p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
+<h2>OpenAI Codex 0.171.0 dodaje GPT-6.2 Sol i Astra</h2>
+<h3>OpenAI Codex 0.171.0 wprowadza modele GPT-6.2 oraz domyslny TUI</h3>
+<p>W wersji 0.171.0 dodano do katalogu modele GPT-6.2 Sol i Astra, ustawiajac Sol jako wybor domyslny. Wydanie domyslnie wlacza obszar roboczy TUI. W nowym widoku obok glownej rozmowy pojawily sie podglady obrazow, przeszukiwalny podglad dokumentow oraz transkrypcje dzialan podagentow.</p>
+<p>Źródło: <a href="https://github.com/openai/codex/releases/tag/rust-v0.171.0">OpenAI Codex releases: 0.171.0</a></p>
+<h2>W skrócie</h2>
+<h3>Tool Retrieval dostepne w wersji podgladowej w Gemini API</h3>
+<p>Google udostepnilo funkcje Tool Retrieval w wersji preview dla Gemini API. Nowe rozwiazanie pozwala agentom korzystac z setek narzedzi przy mniejszym zuzyciu tokenow.</p>
+<p>Źródło: <a href="https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/">Google AI Blog: Introducing Tool Retrieval in the Gemini API</a></p>
+<h3>Claude Code v2.1.329 dodaje ostrzezenia o hookach i zadaniach</h3>
+<p>Wydanie Claude Code v2.1.329 dodaje okno dialogowe z ostrzezeniem wskazujacym, gdzie zadeklarowano hooki folderu. Wprowadzono rowniez ostrzezenia w rozmowie dla Claude Desktop i srodowisk nieinteraktywnych, jesli hooki z zarzadzanych ustawien nie zostana zaladowane. Nowa wersja rejestruje takze zaplanowane zadania oraz wybudzenia petli w ramach biezacej sesji.</p>
+<p>Źródło: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.329">Claude Code releases: v2.1.329</a></p>
+<h3>Ollama v0.40.17 usprawnia obsluge Vulkan i CLI</h3>
+<p>Wydanie Ollama v0.40.17 wprowadza ulepszenia w przywracaniu oraz lagodnym restarcie ChatGPT CLI. Polecenie launch korzysta teraz z metadanych myslenia w konfiguracji OpenCode. Silnik obsluguje rowniez mmap dla zintegrowanych ukladow graficznych Vulkan.</p>
+<p>Źródło: <a href="https://github.com/ollama/ollama/releases/tag/v0.40.17-rc2">Ollama releases: v0.40.17</a></p>
+<h3>Obrazy runnerow Red Hat Enterprise Linux ogolnodostepne na GitHubie</h3>
+<p>GitHub udostepnil ogolnie obrazy Red Hat Enterprise Linux 9 i RHEL 10 dla wiekszych runnerow zarzadzanych przez platforme. Srodowiska te byly dostepne w fazie public preview od czerwca 2026 roku we wspolpracy z firma Red Hat.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available">GitHub Changelog: Red Hat Enterprise Linux runner images now generally available</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0014-daily-2026-11-20/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
 <item><title>Gemini 4 Neon w GitHub Copilot</title><link>https://newsletter.skribly.pl/pl/wydania/0013-daily-2026-11-19/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0013-daily-2026-11-19/</guid><pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate><category>Narzędzia</category><category>Open source</category><category>Agenci</category><category>Modele</category><description>Model Gemini 4 Neon stał się ogólnie dostępny w GitHub Copilot do zadań programistycznych i pracy z wiedzą.</description><content:encoded><![CDATA[<p>Model Gemini 4 Neon stał się ogólnie dostępny w GitHub Copilot do zadań programistycznych i pracy z wiedzą.</p>
 <p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
 <h2>Gemini 4 Neon w GitHub Copilot</h2>
