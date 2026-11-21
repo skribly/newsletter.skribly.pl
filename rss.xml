@@ -5,9 +5,29 @@
 <link>https://newsletter.skribly.pl/</link>
 <description>AI news worth reading and what is new in Skribly, every morning and every week, with a source under every item.</description>
 <language>en-GB</language>
-<lastBuildDate>Fri, 20 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Sat, 21 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/</link></image>
+<item><title>Inkling 2 Mini and Claude Code updates</title><link>https://newsletter.skribly.pl/issues/0015-daily-2026-11-21/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0015-daily-2026-11-21/</guid><pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate><category>Open source</category><category>Agents</category><category>Tools</category><category>Models</category><description>This issue covers the release of the Inkling 2 Mini model and new features for Claude Code.</description><content:encoded><![CDATA[<p>This issue covers the release of the Inkling 2 Mini model and new features for Claude Code.</p>
+<p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
+<h2>Inkling 2 Mini and Claude Code updates</h2>
+<h3>Inkling 2 Mini model released</h3>
+<p>Thinking Machines released Inkling 2 Mini, a 26B parameter model with 5.4B active parameters. It uses looped layers to increase computation per token and supports text, images, tool calls, and thinking.</p>
+<p>Source: <a href="https://github.com/ollama/ollama/releases/tag/v0.40.17">Ollama releases: v0.40.17</a></p>
+<h2>In brief</h2>
+<h3>Claude Code v2.1.330 updates</h3>
+<p>Claude Code now supports sign-in for organizations managed via the Enterprise Admin Console. It also includes a new easel mod that allows the tool to draw charts.</p>
+<p>Source: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.330">Claude Code releases: v2.1.330</a></p>
+<h3>Security advisory permissions on GitHub</h3>
+<p>Organization owners can now assign security advisory permissions to users through custom repository roles. This allows team members to work on private vulnerability reports without needing administrator status.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-20-security-advisory-permissions-are-now-generally-available">GitHub Changelog: Security advisory permissions are now generally available</a></p>
+<h3>GitHub Enterprise Server 3.23 release candidate</h3>
+<p>The release candidate for GitHub Enterprise Server 3.23 is now available. It introduces new capabilities across the platform, including updates to GitHub Projects.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-20-github-enterprise-server-3-23-release-candidate">GitHub Changelog: GitHub Enterprise Server 3.23 release candidate</a></p>
+<h3>OpenAI approach to adversarial distillation</h3>
+<p>OpenAI is using a layered approach to prevent capability extraction. This strategy combines model training, safeguards, detection, and enforcement.</p>
+<p>Source: <a href="https://openai.com/index/combatting-adversarial-distillation">OpenAI News: Combatting adversarial distillation</a></p>
+<p><a href="https://newsletter.skribly.pl/issues/0015-daily-2026-11-21/">Read the whole issue</a></p>]]></content:encoded></item>
 <item><title>OpenAI Codex 0.171.0 Adds GPT-6.2 Sol and Astra</title><link>https://newsletter.skribly.pl/issues/0014-daily-2026-11-20/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0014-daily-2026-11-20/</guid><pubDate>Fri, 20 Nov 2026 00:00:00 GMT</pubDate><category>Agents</category><category>Models</category><category>Open source</category><category>Tools</category><description>OpenAI Codex 0.171.0 introduces GPT-6.2 Sol and Astra to its catalog, while enabling the TUI workspace by default. Today&#39;s digest also covers Tool Retrieval in the Gemini API and updates to Claude Code, Ollama, and GitHub Actions.</description><content:encoded><![CDATA[<p>OpenAI Codex 0.171.0 introduces GPT-6.2 Sol and Astra to its catalog, while enabling the TUI workspace by default. Today&#39;s digest also covers Tool Retrieval in the Gemini API and updates to Claude Code, Ollama, and GitHub Actions.</p>
 <p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
 <h2>OpenAI Codex 0.171.0 Adds GPT-6.2 Sol and Astra</h2>
