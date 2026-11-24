@@ -5,9 +5,32 @@
 <link>https://newsletter.skribly.pl/</link>
 <description>AI news worth reading and what is new in Skribly, every morning and every week, with a source under every item.</description>
 <language>en-GB</language>
-<lastBuildDate>Sat, 21 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/</link></image>
+<item><title>Developer Tools and Agent Updates</title><link>https://newsletter.skribly.pl/issues/0016-daily-2026-11-24/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0016-daily-2026-11-24/</guid><pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate><category>Tools</category><category>Agents</category><category>Research</category><description>Explore the latest releases in developer tools, coding agents, and robotics research, featuring new updates from Visual Studio Code, GitHub, and more.</description><content:encoded><![CDATA[<p>Explore the latest releases in developer tools, coding agents, and robotics research, featuring new updates from Visual Studio Code, GitHub, and more.</p>
+<p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
+<h2>Developer Tools and Agent Updates</h2>
+<h3>Visual Studio Code 1.148 (Insiders)</h3>
+<p>The latest Visual Studio Code Insiders build introduces agent session management and editor tab improvements. Developers can check out what is new in this build.</p>
+<p>Source: <a href="https://code.visualstudio.com/updates/v1_148">Visual Studio Code updates: Visual Studio Code 1.148 (Insiders)</a></p>
+<h2>In brief</h2>
+<h3>OpenAI Codex 0.172.0</h3>
+<p>The new update lets you follow thread links from search results and transcripts to open saved conversations and nested agents in the terminal. You can also press Tab to complete arguments for supported slash commands.</p>
+<p>Source: <a href="https://github.com/openai/codex/releases/tag/rust-v0.172.0">OpenAI Codex releases: 0.172.0</a></p>
+<h3>RoboTrack: Point Tracking for Robotic Manipulation</h3>
+<p>RoboTrack introduces a new benchmark, synthetic training dataset, and two models that improve how robots track objects during real-world manipulation tasks.</p>
+<p>Source: <a href="https://allenai.org/blog/robotrack">Ai2 Blog: RoboTrack: Point tracking for real-world robotic manipulation</a></p>
+<h3>Claude Code v2.1.331</h3>
+<p>This release adds Code Mode support in terminal sessions across platforms like Amazon Bedrock, Google Cloud&#39;s Agent Platform, Microsoft Foundry, and Claude Platform on AWS. It also adds oidc.groups_jsonpath to the Claude apps gateway.</p>
+<p>Source: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.331">Claude Code releases: v2.1.331</a></p>
+<h3>GitHub Issue Statuses and Repository Boards</h3>
+<p>Issue statuses and repository boards are now in public preview. You can use more specific statuses to give your team and agents shared context about what is in flight.</p>
+<p>Source: <a href="https://github.blog/changelog/2026-11-23-issue-statuses-and-repository-boards-are-in-public-preview">GitHub Changelog: Issue statuses and repository boards are in public preview</a></p>
+<h3>OpenCode v2.4.1</h3>
+<p>A macOS 12 session fix allows OpenCode to save assistant messages again on the older SQLite version included with the system. Config-only providers now also show their models in /models without extra steps.</p>
+<p>Source: <a href="https://github.com/anomalyco/opencode/releases/tag/v2.4.1">OpenCode releases: v2.4.1</a></p>
+<p><a href="https://newsletter.skribly.pl/issues/0016-daily-2026-11-24/">Read the whole issue</a></p>]]></content:encoded></item>
 <item><title>Inkling 2 Mini and Claude Code updates</title><link>https://newsletter.skribly.pl/issues/0015-daily-2026-11-21/</link><guid isPermaLink="true">https://newsletter.skribly.pl/issues/0015-daily-2026-11-21/</guid><pubDate>Sat, 21 Nov 2026 00:00:00 GMT</pubDate><category>Open source</category><category>Agents</category><category>Tools</category><category>Models</category><description>This issue covers the release of the Inkling 2 Mini model and new features for Claude Code.</description><content:encoded><![CDATA[<p>This issue covers the release of the Inkling 2 Mini model and new features for Claude Code.</p>
 <p><em>Daily digest, written automatically from the sources; read the source before you rely on it</em></p>
 <h2>Inkling 2 Mini and Claude Code updates</h2>

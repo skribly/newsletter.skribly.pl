@@ -13,6 +13,7 @@ A short digest every morning, written automatically from the sources, and a week
 
 ## Issues
 
+- [Issue 16: Developer Tools and Agent Updates](https://newsletter.skribly.pl/issues/0016-daily-2026-11-24/): Explore the latest releases in developer tools, coding agents, and robotics research, featuring new updates from Visual Studio Code, GitHub, and more. Polish: https://newsletter.skribly.pl/pl/wydania/0016-daily-2026-11-24/
 - [Issue 15: Inkling 2 Mini and Claude Code updates](https://newsletter.skribly.pl/issues/0015-daily-2026-11-21/): This issue covers the release of the Inkling 2 Mini model and new features for Claude Code. Polish: https://newsletter.skribly.pl/pl/wydania/0015-daily-2026-11-21/
 - [Issue 14: OpenAI Codex 0.171.0 Adds GPT-6.2 Sol and Astra](https://newsletter.skribly.pl/issues/0014-daily-2026-11-20/): OpenAI Codex 0.171.0 introduces GPT-6.2 Sol and Astra to its catalog, while enabling the TUI workspace by default. Today's digest also covers Tool Retrieval in the Gemini API and updates to Claude Code, Ollama, and GitHub Actions. Polish: https://newsletter.skribly.pl/pl/wydania/0014-daily-2026-11-20/
 - [Issue 13: Gemini 4 Neon in GitHub Copilot](https://newsletter.skribly.pl/issues/0013-daily-2026-11-19/): GitHub Copilot has made Gemini 4 Neon generally available for agentic coding and knowledge work. Polish: https://newsletter.skribly.pl/pl/wydania/0013-daily-2026-11-19/
