@@ -5,9 +5,29 @@
 <link>https://newsletter.skribly.pl/pl/</link>
 <description>Wiadomości z AI, które warto przeczytać, i nowości w Skribly, co rano i co tydzień, ze źródłem pod każdą wiadomością.</description>
 <language>pl-PL</language>
-<lastBuildDate>Tue, 24 Nov 2026 00:00:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 25 Nov 2026 00:00:00 GMT</lastBuildDate>
 <atom:link href="https://newsletter.skribly.pl/pl/rss.xml" rel="self" type="application/rss+xml"/>
 <image><url>https://newsletter.skribly.pl/icon-192.png</url><title>Skribly Newsletter</title><link>https://newsletter.skribly.pl/pl/</link></image>
+<item><title>GPT-6 projektuje białka, Claude Code ze skillami MCP</title><link>https://newsletter.skribly.pl/pl/wydania/0017-daily-2026-11-25/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0017-daily-2026-11-25/</guid><pubDate>Wed, 25 Nov 2026 00:00:00 GMT</pubDate><category>Modele</category><category>Agenci</category><category>Open source</category><category>Narzędzia</category><description>OpenAI poinformowało, że modele GPT-6 potrafią projektować struktury i sekwencje białek za pomocą rozumowania i kodu. Z kolei Claude Code wprowadza obsługę skilli z serwerów MCP.</description><content:encoded><![CDATA[<p>OpenAI poinformowało, że modele GPT-6 potrafią projektować struktury i sekwencje białek za pomocą rozumowania i kodu. Z kolei Claude Code wprowadza obsługę skilli z serwerów MCP.</p>
+<p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
+<h2>GPT-6 projektuje białka, Claude Code ze skillami MCP</h2>
+<h3>Modele GPT-6 wykazują wrodzone zdolności projektowania białek</h3>
+<p>OpenAI ogłosiło, że modele GPT-6 projektują struktury oraz sekwencje białek przy użyciu rozumowania i kodu. Testy laboratoryjne wykazały dowody na wiązanie w przypadku pięciu celów.</p>
+<p>Źródło: <a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities">OpenAI News: GPT-6 models demonstrate intrinsic protein-design capabilities</a></p>
+<h2>W skrócie</h2>
+<h3>Claude Code v2.1.332</h3>
+<p>W Claude Code v2.1.332 dodano wersję beta skilli z serwerów MCP, które wyświetlają się jako server:skill w menu /, podczas gdy pozostałe skille zachowują dotychczasowe nazwy. Wprowadzono także zdarzenie hooka PreSkillShellCommand, które może odrzucić polecenia powłoki wbudowane w skill lub komendę podczas jej ładowania.</p>
+<p>Źródło: <a href="https://github.com/anthropics/claude-code/releases/tag/v2.1.332">Claude Code releases: v2.1.332</a></p>
+<h3>Ollama v0.40.18</h3>
+<p>Wydanie Ollama v0.40.18 aktualizuje llama.cpp do kompilacji b12651 oraz porzuca wsparcie dla jetpack5. Dodatkowo łączy Inkling residual mixing na Metal, współdzieli helpery tensorów i konfigurację modeli między architekturami w mlxrunnerze oraz przyspiesza dekodowanie na Metal dla inkling2.</p>
+<p>Źródło: <a href="https://github.com/ollama/ollama/releases/tag/v0.40.18">Ollama releases: v0.40.18</a></p>
+<h3>Dwa lata Model Context Protocol</h3>
+<p>Otwartoźródłowy projekt Model Context Protocol obchodzi drugie urodziny. Twórcy świętują tę okazję, dziękując osobom współtworzącym protokół oraz wszystkim, którzy budują na nim swoje rozwiązania.</p>
+<p>Źródło: <a href="https://blog.modelcontextprotocol.io/posts/mcp-turns-two/">Model Context Protocol Blog: Two Years of MCP Builders</a></p>
+<h3>Bardziej przewidywalne powiadomienia na GitHub.com</h3>
+<p>GitHub ogłosił, że 1 grudnia 2026 roku rozpocznie tygodniową migrację powiadomień na GitHub.com. Zmiana ma na celu zwiększenie przewidywalności subskrypcji, naprawę nieoczekiwanych zachowań oraz dostosowanie platformy do rosnącej skali aktywności.</p>
+<p>Źródło: <a href="https://github.blog/changelog/2026-11-24-more-predictable-notifications-on-github-com">GitHub Changelog: More predictable notifications on GitHub.com</a></p>
+<p><a href="https://newsletter.skribly.pl/pl/wydania/0017-daily-2026-11-25/">Czytaj całe wydanie</a></p>]]></content:encoded></item>
 <item><title>Aktualizacje narzędzi dla programistów i agentów</title><link>https://newsletter.skribly.pl/pl/wydania/0016-daily-2026-11-24/</link><guid isPermaLink="true">https://newsletter.skribly.pl/pl/wydania/0016-daily-2026-11-24/</guid><pubDate>Tue, 24 Nov 2026 00:00:00 GMT</pubDate><category>Narzędzia</category><category>Agenci</category><category>Badania</category><description>Sprawdź najnowsze wydania narzędzi programistycznych, agentów kodujących i badań nad robotyką, w tym nowości z Visual Studio Code i GitHub.</description><content:encoded><![CDATA[<p>Sprawdź najnowsze wydania narzędzi programistycznych, agentów kodujących i badań nad robotyką, w tym nowości z Visual Studio Code i GitHub.</p>
 <p><em>Codzienny przegląd, napisany automatycznie ze źródeł; zanim na nim polegasz, zajrzyj do źródła</em></p>
 <h2>Aktualizacje narzędzi dla programistów i agentów</h2>
