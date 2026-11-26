@@ -13,6 +13,7 @@ A short digest every morning, written automatically from the sources, and a week
 
 ## Issues
 
+- [Issue 18: Nemotron 3.5 Parse: Open Data and Faster Inference](https://newsletter.skribly.pl/issues/0018-daily-2026-11-26/): The latest update on Nemotron 3.5 Parse highlights advances in open data, fine-tuning, and faster inference. Polish: https://newsletter.skribly.pl/pl/wydania/0018-daily-2026-11-26/
 - [Issue 17: GPT-6 designs proteins, Claude Code adds MCP skills](https://newsletter.skribly.pl/issues/0017-daily-2026-11-25/): OpenAI reported that GPT-6 models can design protein structures and sequences using reasoning and code. Meanwhile, Claude Code introduces skills from MCP servers in beta. Polish: https://newsletter.skribly.pl/pl/wydania/0017-daily-2026-11-25/
 - [Issue 16: Developer Tools and Agent Updates](https://newsletter.skribly.pl/issues/0016-daily-2026-11-24/): Explore the latest releases in developer tools, coding agents, and robotics research, featuring new updates from Visual Studio Code, GitHub, and more. Polish: https://newsletter.skribly.pl/pl/wydania/0016-daily-2026-11-24/
 - [Issue 15: Inkling 2 Mini and Claude Code updates](https://newsletter.skribly.pl/issues/0015-daily-2026-11-21/): This issue covers the release of the Inkling 2 Mini model and new features for Claude Code. Polish: https://newsletter.skribly.pl/pl/wydania/0015-daily-2026-11-21/
